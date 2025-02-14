@@ -1,7 +1,7 @@
 import os
 import csv
 import subprocess
-from concurrent.futures import ThreadPoolExecutor
+from concurrent.futures import ThreadPoolExecutor, as_completed
 import datetime
 import argparse
 
@@ -136,9 +136,9 @@ if __name__ == "__main__":
     args = parser.parse_args()  # Parse the arguments
 
     tcm_logger.info("Starting download for training set...")
-    process_file(args.train_file, args.train_dir, 4000, num_workers=args.num_workers)
+    process_file(args.train_file, args.train_dir, 40000, num_workers=args.num_workers)
 
     tcm_logger.info("Starting download for testing set...")
-    process_file(args.test_file, args.test_dir, 1000, num_workers=args.num_workers)
+    process_file(args.test_file, args.test_dir, 10000, num_workers=args.num_workers)
 
     tcm_logger.info("All downloads completed.")
