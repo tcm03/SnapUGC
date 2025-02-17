@@ -32,11 +32,13 @@ def prepare_train_json(
     quartile1: int,
     quartile3: int
 ):
+    print(f"Preparing training json file...")
     train_json = []
     with open(raw_train, "r", encoding="utf-8") as file:
         reader = csv.reader(file, delimiter="\t")
         next(reader)  # Skip header row
         train_dir_files = os.listdir(train_dir)
+        num_samples = 0
         for row in reader:
             if row[1] == '' or row[2] == '' or row[3] == '':
                 print(f"Empty row found: {row[0]}")
@@ -62,6 +64,8 @@ def prepare_train_json(
                         }
                     ]
                 })
+                num_samples += 1
+        print(f"Number of training samples prepared: {num_samples}")
             
     with open(train_json_path, "w", encoding="utf-8") as file:
         json.dump(train_json, file, indent=4)
@@ -74,11 +78,13 @@ def prepare_test_json(
     quartile1: int,
     quartile3: int
 ):
+    print(f"Preparing testing json file...")
     test_json = []
     with open(raw_test, "r", encoding="utf-8") as file:
         reader = csv.reader(file, delimiter="\t")
         next(reader)  # Skip header row
         test_dir_files = os.listdir(test_dir)
+        num_samples = 0
         for row in reader:
             if row[1] == '' or row[2] == '' or row[3] == '':
                 print(f"Empty row found: {row[0]}")
@@ -104,6 +110,8 @@ def prepare_test_json(
                         }
                     ]
                 })
+                num_samples += 1
+        print(f"Number of testing samples prepared: {num_samples}")
             
     with open(test_json_path, "w", encoding="utf-8") as file:
         json.dump(test_json, file, indent=4)
