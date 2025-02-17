@@ -5,7 +5,7 @@ TEST_JSON_PATH="/raid/nthuy/SnapUGC/snapugc_test.json"
 TRAIN_DIR="/raid/nthuy/SnapUGC/train"
 TEST_DIR="/raid/nthuy/SnapUGC/test"
 
-python organize.py \
+python scripts/organize.py \
 --raw_train $RAW_TRAIN_PATH \
 --raw_test $RAW_TEST_PATH \
 --train_json $TRAIN_JSON_PATH \
