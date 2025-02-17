@@ -120,9 +120,9 @@ if __name__ == "__main__":
     args = parser.parse_args()
 
     tcm_logger.info("Starting download for training set...")
-    process_file(args.train_file, args.train_dir, 40000, num_workers=args.num_workers)
+    process_file(args.train_file, args.train_dir, 115379, num_workers=args.num_workers)
 
     tcm_logger.info("Starting download for testing set...")
-    process_file(args.test_file, args.test_dir, 10000, num_workers=args.num_workers)
+    process_file(args.test_file, args.test_dir, 15729, num_workers=args.num_workers)
 
     tcm_logger.info("All downloads completed.")
