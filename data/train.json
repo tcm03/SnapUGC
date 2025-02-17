@@ -1,6 +1,6 @@
 [
     {
-        "video": "1d5a6586d42b5b0d69f48a7ba87fccfe.mp4",
+        "video": "train_new/1d5a6586d42b5b0d69f48a7ba87fccfe.mp4",
         "label": "0",
         "conversations": [
             {
@@ -14,7 +14,7 @@
         ]
     },
     {
-        "video": "1e9b26ba367a8ed559916599294bbfc1.mp4",
+        "video": "train_new/1e9b26ba367a8ed559916599294bbfc1.mp4",
         "label": "0",
         "conversations": [
             {
@@ -28,7 +28,7 @@
         ]
     },
     {
-        "video": "5902367b4d7d4c38fe4638593ddea7ee.mp4",
+        "video": "train_new/5902367b4d7d4c38fe4638593ddea7ee.mp4",
         "label": "1",
         "conversations": [
             {
@@ -42,7 +42,7 @@
         ]
     },
     {
-        "video": "9be2d4d5e8d4bfd1f5ce59f51d7d96dd.mp4",
+        "video": "train_new/9be2d4d5e8d4bfd1f5ce59f51d7d96dd.mp4",
         "label": "2",
         "conversations": [
             {

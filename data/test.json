@@ -1,6 +1,6 @@
 [
     {
-        "video": "248c215e1522d0fc62e36d8bb3588418.mp4",
+        "video": "test_new/248c215e1522d0fc62e36d8bb3588418.mp4",
         "label": "0",
         "conversations": [
             {
@@ -14,7 +14,7 @@
         ]
     },
     {
-        "video": "49477c71982a8be5326ee9fc91b56b2b.mp4",
+        "video": "test_new/49477c71982a8be5326ee9fc91b56b2b.mp4",
         "label": "1",
         "conversations": [
             {
