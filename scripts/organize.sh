@@ -1,9 +1,9 @@
-RAW_TRAIN_PATH = "/media02/nthuy/data/SnapUGC/train_out_sanitized.csv"
-RAW_TEST_PATH = "/media02/nthuy/data/SnapUGC/test_out_sanitized.csv"
-TRAIN_JSON_PATH = "/raid/nthuy/SnapUGC/snapugc_train.json"
-TEST_JSON_PATH = "/raid/nthuy/SnapUGC/snapugc_test.json"
-TRAIN_DIR = "/raid/nthuy/SnapUGC/train"
-TEST_DIR = "/raid/nthuy/SnapUGC/test"
+RAW_TRAIN_PATH="/media02/nthuy/data/SnapUGC/train_out_sanitized.csv"
+RAW_TEST_PATH="/media02/nthuy/data/SnapUGC/test_out_sanitized.csv"
+TRAIN_JSON_PATH="/raid/nthuy/SnapUGC/snapugc_train.json"
+TEST_JSON_PATH="/raid/nthuy/SnapUGC/snapugc_test.json"
+TRAIN_DIR="/raid/nthuy/SnapUGC/train"
+TEST_DIR="/raid/nthuy/SnapUGC/test"
 
 python organize.py \
 --raw_train $RAW_TRAIN_PATH \
