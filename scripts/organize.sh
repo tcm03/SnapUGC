@@ -1,5 +1,5 @@
-RAW_TRAIN_PATH="/media02/nthuy/data/SnapUGC/train_out_sanitized.csv"
-RAW_TEST_PATH="/media02/nthuy/data/SnapUGC/test_out_sanitized.csv"
+RAW_TRAIN_PATH="/media02/nthuy/data/SnapUGC/train_out_sanitized.txt"
+RAW_TEST_PATH="/media02/nthuy/data/SnapUGC/test_out_sanitized.txt"
 TRAIN_JSON_PATH="/raid/nthuy/SnapUGC/snapugc_train.json"
 TEST_JSON_PATH="/raid/nthuy/SnapUGC/snapugc_test.json"
 TRAIN_DIR="/raid/nthuy/SnapUGC/train"
