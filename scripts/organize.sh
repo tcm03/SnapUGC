@@ -11,4 +11,8 @@ python scripts/organize.py \
 --train_json $TRAIN_JSON_PATH \
 --test_json $TEST_JSON_PATH \
 --train_dir $TRAIN_DIR \
---test_dir $TEST_DIR
+--test_dir $TEST_DIR \
+--min_duration 1 \
+--max_duration 55 \
+--max_samples_train 10000 \
+--max_samples_test 1000
