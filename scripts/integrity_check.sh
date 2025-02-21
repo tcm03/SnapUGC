@@ -15,6 +15,8 @@ check_and_remove_corrupted() {
     > "$LOG_FILE"  # Empty the log file
 
     find "$DIR" -type f -name "*.mp4" | while read -r FILE; do
+        # Convert to an absolute path
+        FILE=$(realpath "$FILE")
         ffmpeg -v error -i "$FILE" -f null - 2>> "$LOG_FILE"
         if [ $? -ne 0 ]; then
             echo "Corrupted file detected: $FILE"
