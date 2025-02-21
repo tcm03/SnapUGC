@@ -35,13 +35,13 @@ def prepare_json_data(
     output_json_path: str,
     **kwargs
 ):
-    print(f"Preparing {prefix} json file...")
     data_json = []
     quartile1 = kwargs.get("quartile1", DEFAULT_QUARTILE1)
     quartile3 = kwargs.get("quartile3", DEFAULT_QUARTILE3)
     prefix = kwargs.get("prefix", "data")
     min_duration = kwargs.get("min_duration", DEFAULT_MIN_DURATION)
     max_duration = kwargs.get("max_duration", DEFAULT_MAX_DURATION)
+    print(f"Preparing {prefix} json file...")
     with open(raw_file, "r", encoding="utf-8") as file:
         reader = csv.reader(file, delimiter="\t")
         next(reader)  # Skip header row
@@ -81,6 +81,8 @@ def prepare_json_data(
     sample_data_json = data_json
     if max_samples is not None:
         sample_data_json = random.sample(data_json, min(max_samples, len(sample_data_json)))
+
+    print(f"Number of {prefix} samples selected: {len(sample_data_json)}")
 
     with open(output_json_path, "w", encoding="utf-8") as file:
         json.dump(sample_data_json, file, indent=4)
