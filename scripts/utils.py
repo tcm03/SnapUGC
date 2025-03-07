@@ -9,7 +9,14 @@ def get_input_prompt() -> str:
     return "<image>\nThis video is a SnapChat video on one of many categories. The engagement rate defined for each such video is based on the average watch time and how long viewers stay engaged before skipping. The higher the average watch time and lower the skip rate, the more engaged the video is. The final prediction label is either 0 (not engaged), 1 (neutral), or 2 (engaged). Please predict one of the three labels for this video, based on its contents only."
 
 def get_output_response(label: str) -> str:
-    return f"The engagement label of the video is {label}."
+    # return f"The engagement label of the video is {label}."
+    if label == '0':
+        return "0 (not engaged)"
+    elif label == '1':
+        return "1 (neutral)"
+    elif label == '2':
+        return "2 (engaged)"
+    return "Invalid label"
 
 def is_float(s):
     try:
