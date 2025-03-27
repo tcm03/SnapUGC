@@ -1,11 +1,11 @@
 #!/bin/bash
 
 # Define absolute directories for videos
-TRAIN_DIR="/raid/nthuy/SnapUGC/train"
-TEST_DIR="/raid/nthuy/SnapUGC/test"
+TRAIN_DIR="/root/hcmus/SnapUGC/data/train"
+TEST_DIR="/root/hcmus/SnapUGC/data/test"
 
 # Define the log directory under /raid/nthuy/SnapUGC
-LOG_DIR="/raid/nthuy/SnapUGC/integrity_logs"
+LOG_DIR="/root/hcmus/SnapUGC/integrity_logs"
 TRAIN_LOG_DIR="$LOG_DIR/train"
 TEST_LOG_DIR="$LOG_DIR/test"
 
@@ -31,7 +31,7 @@ check_and_remove_corrupted() {
         ffmpeg -v error -i "$ABS_FILE" -f null - 2>> "$LOG_FILE"
         if [ $? -ne 0 ]; then
             echo "Corrupted file detected: $ABS_FILE"
-            rm "$ABS_FILE"
+            # rm "$ABS_FILE"
             echo "$ABS_FILE" >> "$LOG_FILE"
         fi
     done

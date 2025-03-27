@@ -1,0 +1,1780 @@
+[
+    {
+        "video": "test/089f642f6e34d3ebf17d8ce96746c85c.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis video is a SnapChat video on one of many categories. The engagement rate defined for each such video is based on the average watch time and how long viewers stay engaged before skipping. The higher the average watch time and lower the skip rate, the more engaged the video is. The final prediction label is either 0 (not engaged), 1 (neutral), or 2 (engaged). Please predict one of the three labels for this video, based on its contents only."
+            },
+            {
+                "from": "gpt",
+                "value": "The engagement label of the video is 0."
+            }
+        ]
+    },
+    {
+        "video": "test/a72258208ef42f86f3ad55b1d61ad29f.mp4",
+        "label": "2",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis video is a SnapChat video on one of many categories. The engagement rate defined for each such video is based on the average watch time and how long viewers stay engaged before skipping. The higher the average watch time and lower the skip rate, the more engaged the video is. The final prediction label is either 0 (not engaged), 1 (neutral), or 2 (engaged). Please predict one of the three labels for this video, based on its contents only."
+            },
+            {
+                "from": "gpt",
+                "value": "The engagement label of the video is 2."
+            }
+        ]
+    },
+    {
+        "video": "test/d07b2613cff96b6d2967ba66fb226de0.mp4",
+        "label": "2",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis video is a SnapChat video on one of many categories. The engagement rate defined for each such video is based on the average watch time and how long viewers stay engaged before skipping. The higher the average watch time and lower the skip rate, the more engaged the video is. The final prediction label is either 0 (not engaged), 1 (neutral), or 2 (engaged). Please predict one of the three labels for this video, based on its contents only."
+            },
+            {
+                "from": "gpt",
+                "value": "The engagement label of the video is 2."
+            }
+        ]
+    },
+    {
+        "video": "test/3c9af9385ff283e6c83abaf878e9d1cc.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis video is a SnapChat video on one of many categories. The engagement rate defined for each such video is based on the average watch time and how long viewers stay engaged before skipping. The higher the average watch time and lower the skip rate, the more engaged the video is. The final prediction label is either 0 (not engaged), 1 (neutral), or 2 (engaged). Please predict one of the three labels for this video, based on its contents only."
+            },
+            {
+                "from": "gpt",
+                "value": "The engagement label of the video is 0."
+            }
+        ]
+    },
+    {
+        "video": "test/5f769f70cfdedd5745c2b4d48c4df536.mp4",
+        "label": "1",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis video is a SnapChat video on one of many categories. The engagement rate defined for each such video is based on the average watch time and how long viewers stay engaged before skipping. The higher the average watch time and lower the skip rate, the more engaged the video is. The final prediction label is either 0 (not engaged), 1 (neutral), or 2 (engaged). Please predict one of the three labels for this video, based on its contents only."
+            },
+            {
+                "from": "gpt",
+                "value": "The engagement label of the video is 1."
+            }
+        ]
+    },
+    {
+        "video": "test/8c25d00d027ba30191a3f082f51bb568.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis video is a SnapChat video on one of many categories. The engagement rate defined for each such video is based on the average watch time and how long viewers stay engaged before skipping. The higher the average watch time and lower the skip rate, the more engaged the video is. The final prediction label is either 0 (not engaged), 1 (neutral), or 2 (engaged). Please predict one of the three labels for this video, based on its contents only."
+            },
+            {
+                "from": "gpt",
+                "value": "The engagement label of the video is 0."
+            }
+        ]
+    },
+    {
+        "video": "test/eed0c278570db4ea8da9fbe4cd20c10f.mp4",
+        "label": "2",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis video is a SnapChat video on one of many categories. The engagement rate defined for each such video is based on the average watch time and how long viewers stay engaged before skipping. The higher the average watch time and lower the skip rate, the more engaged the video is. The final prediction label is either 0 (not engaged), 1 (neutral), or 2 (engaged). Please predict one of the three labels for this video, based on its contents only."
+            },
+            {
+                "from": "gpt",
+                "value": "The engagement label of the video is 2."
+            }
+        ]
+    },
+    {
+        "video": "test/00125dacc8e89a1e8256680b969f3dfa.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis video is a SnapChat video on one of many categories. The engagement rate defined for each such video is based on the average watch time and how long viewers stay engaged before skipping. The higher the average watch time and lower the skip rate, the more engaged the video is. The final prediction label is either 0 (not engaged), 1 (neutral), or 2 (engaged). Please predict one of the three labels for this video, based on its contents only."
+            },
+            {
+                "from": "gpt",
+                "value": "The engagement label of the video is 0."
+            }
+        ]
+    },
+    {
+        "video": "test/3bc5965ec7812825e72a1ff2bb0479b2.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis video is a SnapChat video on one of many categories. The engagement rate defined for each such video is based on the average watch time and how long viewers stay engaged before skipping. The higher the average watch time and lower the skip rate, the more engaged the video is. The final prediction label is either 0 (not engaged), 1 (neutral), or 2 (engaged). Please predict one of the three labels for this video, based on its contents only."
+            },
+            {
+                "from": "gpt",
+                "value": "The engagement label of the video is 0."
+            }
+        ]
+    },
+    {
+        "video": "test/24d1057da501512c0c20542bbbd1714e.mp4",
+        "label": "1",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis video is a SnapChat video on one of many categories. The engagement rate defined for each such video is based on the average watch time and how long viewers stay engaged before skipping. The higher the average watch time and lower the skip rate, the more engaged the video is. The final prediction label is either 0 (not engaged), 1 (neutral), or 2 (engaged). Please predict one of the three labels for this video, based on its contents only."
+            },
+            {
+                "from": "gpt",
+                "value": "The engagement label of the video is 1."
+            }
+        ]
+    },
+    {
+        "video": "test/cb839c0ca2c7412f450223acf2686217.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis video is a SnapChat video on one of many categories. The engagement rate defined for each such video is based on the average watch time and how long viewers stay engaged before skipping. The higher the average watch time and lower the skip rate, the more engaged the video is. The final prediction label is either 0 (not engaged), 1 (neutral), or 2 (engaged). Please predict one of the three labels for this video, based on its contents only."
+            },
+            {
+                "from": "gpt",
+                "value": "The engagement label of the video is 0."
+            }
+        ]
+    },
+    {
+        "video": "test/21d5b40ea3549bbe8f14f49120389d36.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis video is a SnapChat video on one of many categories. The engagement rate defined for each such video is based on the average watch time and how long viewers stay engaged before skipping. The higher the average watch time and lower the skip rate, the more engaged the video is. The final prediction label is either 0 (not engaged), 1 (neutral), or 2 (engaged). Please predict one of the three labels for this video, based on its contents only."
+            },
+            {
+                "from": "gpt",
+                "value": "The engagement label of the video is 0."
+            }
+        ]
+    },
+    {
+        "video": "test/f3a96c98872a23f17ac1cc2b9f2f7d70.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis video is a SnapChat video on one of many categories. The engagement rate defined for each such video is based on the average watch time and how long viewers stay engaged before skipping. The higher the average watch time and lower the skip rate, the more engaged the video is. The final prediction label is either 0 (not engaged), 1 (neutral), or 2 (engaged). Please predict one of the three labels for this video, based on its contents only."
+            },
+            {
+                "from": "gpt",
+                "value": "The engagement label of the video is 0."
+            }
+        ]
+    },
+    {
+        "video": "test/fc5bc573c4aee6a9e1b398c4f6c1260b.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis video is a SnapChat video on one of many categories. The engagement rate defined for each such video is based on the average watch time and how long viewers stay engaged before skipping. The higher the average watch time and lower the skip rate, the more engaged the video is. The final prediction label is either 0 (not engaged), 1 (neutral), or 2 (engaged). Please predict one of the three labels for this video, based on its contents only."
+            },
+            {
+                "from": "gpt",
+                "value": "The engagement label of the video is 0."
+            }
+        ]
+    },
+    {
+        "video": "test/d7bb5730b14a5405f12edbe4de7f01e8.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis video is a SnapChat video on one of many categories. The engagement rate defined for each such video is based on the average watch time and how long viewers stay engaged before skipping. The higher the average watch time and lower the skip rate, the more engaged the video is. The final prediction label is either 0 (not engaged), 1 (neutral), or 2 (engaged). Please predict one of the three labels for this video, based on its contents only."
+            },
+            {
+                "from": "gpt",
+                "value": "The engagement label of the video is 0."
+            }
+        ]
+    },
+    {
+        "video": "test/3b245503966d40090a6e007541859292.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis video is a SnapChat video on one of many categories. The engagement rate defined for each such video is based on the average watch time and how long viewers stay engaged before skipping. The higher the average watch time and lower the skip rate, the more engaged the video is. The final prediction label is either 0 (not engaged), 1 (neutral), or 2 (engaged). Please predict one of the three labels for this video, based on its contents only."
+            },
+            {
+                "from": "gpt",
+                "value": "The engagement label of the video is 0."
+            }
+        ]
+    },
+    {
+        "video": "test/bb47a76e02a3a4c45d07727ecbaa5705.mp4",
+        "label": "1",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis video is a SnapChat video on one of many categories. The engagement rate defined for each such video is based on the average watch time and how long viewers stay engaged before skipping. The higher the average watch time and lower the skip rate, the more engaged the video is. The final prediction label is either 0 (not engaged), 1 (neutral), or 2 (engaged). Please predict one of the three labels for this video, based on its contents only."
+            },
+            {
+                "from": "gpt",
+                "value": "The engagement label of the video is 1."
+            }
+        ]
+    },
+    {
+        "video": "test/5906639f885205e59a9a328e27b0ee44.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis video is a SnapChat video on one of many categories. The engagement rate defined for each such video is based on the average watch time and how long viewers stay engaged before skipping. The higher the average watch time and lower the skip rate, the more engaged the video is. The final prediction label is either 0 (not engaged), 1 (neutral), or 2 (engaged). Please predict one of the three labels for this video, based on its contents only."
+            },
+            {
+                "from": "gpt",
+                "value": "The engagement label of the video is 0."
+            }
+        ]
+    },
+    {
+        "video": "test/7dd8bc4f276d445398cbfed775bc0095.mp4",
+        "label": "1",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis video is a SnapChat video on one of many categories. The engagement rate defined for each such video is based on the average watch time and how long viewers stay engaged before skipping. The higher the average watch time and lower the skip rate, the more engaged the video is. The final prediction label is either 0 (not engaged), 1 (neutral), or 2 (engaged). Please predict one of the three labels for this video, based on its contents only."
+            },
+            {
+                "from": "gpt",
+                "value": "The engagement label of the video is 1."
+            }
+        ]
+    },
+    {
+        "video": "test/375adc8af65b311f934aab256bd6caff.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis video is a SnapChat video on one of many categories. The engagement rate defined for each such video is based on the average watch time and how long viewers stay engaged before skipping. The higher the average watch time and lower the skip rate, the more engaged the video is. The final prediction label is either 0 (not engaged), 1 (neutral), or 2 (engaged). Please predict one of the three labels for this video, based on its contents only."
+            },
+            {
+                "from": "gpt",
+                "value": "The engagement label of the video is 0."
+            }
+        ]
+    },
+    {
+        "video": "test/4826409b069e52653d79667aefc2cafe.mp4",
+        "label": "1",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis video is a SnapChat video on one of many categories. The engagement rate defined for each such video is based on the average watch time and how long viewers stay engaged before skipping. The higher the average watch time and lower the skip rate, the more engaged the video is. The final prediction label is either 0 (not engaged), 1 (neutral), or 2 (engaged). Please predict one of the three labels for this video, based on its contents only."
+            },
+            {
+                "from": "gpt",
+                "value": "The engagement label of the video is 1."
+            }
+        ]
+    },
+    {
+        "video": "test/22459651df96b2ab66b9726d4c7e3f40.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis video is a SnapChat video on one of many categories. The engagement rate defined for each such video is based on the average watch time and how long viewers stay engaged before skipping. The higher the average watch time and lower the skip rate, the more engaged the video is. The final prediction label is either 0 (not engaged), 1 (neutral), or 2 (engaged). Please predict one of the three labels for this video, based on its contents only."
+            },
+            {
+                "from": "gpt",
+                "value": "The engagement label of the video is 0."
+            }
+        ]
+    },
+    {
+        "video": "test/2403429b8ba8553bc6ab1e56f48cadfc.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis video is a SnapChat video on one of many categories. The engagement rate defined for each such video is based on the average watch time and how long viewers stay engaged before skipping. The higher the average watch time and lower the skip rate, the more engaged the video is. The final prediction label is either 0 (not engaged), 1 (neutral), or 2 (engaged). Please predict one of the three labels for this video, based on its contents only."
+            },
+            {
+                "from": "gpt",
+                "value": "The engagement label of the video is 0."
+            }
+        ]
+    },
+    {
+        "video": "test/1398357de5909548502718c1c36964f0.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis video is a SnapChat video on one of many categories. The engagement rate defined for each such video is based on the average watch time and how long viewers stay engaged before skipping. The higher the average watch time and lower the skip rate, the more engaged the video is. The final prediction label is either 0 (not engaged), 1 (neutral), or 2 (engaged). Please predict one of the three labels for this video, based on its contents only."
+            },
+            {
+                "from": "gpt",
+                "value": "The engagement label of the video is 0."
+            }
+        ]
+    },
+    {
+        "video": "test/1cde57355352055f32a11ab34a5cf705.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis video is a SnapChat video on one of many categories. The engagement rate defined for each such video is based on the average watch time and how long viewers stay engaged before skipping. The higher the average watch time and lower the skip rate, the more engaged the video is. The final prediction label is either 0 (not engaged), 1 (neutral), or 2 (engaged). Please predict one of the three labels for this video, based on its contents only."
+            },
+            {
+                "from": "gpt",
+                "value": "The engagement label of the video is 0."
+            }
+        ]
+    },
+    {
+        "video": "test/a790d126d74624aa81aa8bf10034c218.mp4",
+        "label": "1",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis video is a SnapChat video on one of many categories. The engagement rate defined for each such video is based on the average watch time and how long viewers stay engaged before skipping. The higher the average watch time and lower the skip rate, the more engaged the video is. The final prediction label is either 0 (not engaged), 1 (neutral), or 2 (engaged). Please predict one of the three labels for this video, based on its contents only."
+            },
+            {
+                "from": "gpt",
+                "value": "The engagement label of the video is 1."
+            }
+        ]
+    },
+    {
+        "video": "test/c91b9f7906719ec8e6be66bb798b9f3d.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis video is a SnapChat video on one of many categories. The engagement rate defined for each such video is based on the average watch time and how long viewers stay engaged before skipping. The higher the average watch time and lower the skip rate, the more engaged the video is. The final prediction label is either 0 (not engaged), 1 (neutral), or 2 (engaged). Please predict one of the three labels for this video, based on its contents only."
+            },
+            {
+                "from": "gpt",
+                "value": "The engagement label of the video is 0."
+            }
+        ]
+    },
+    {
+        "video": "test/54b53c07f6c43b93efa8a5cb32a32682.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis video is a SnapChat video on one of many categories. The engagement rate defined for each such video is based on the average watch time and how long viewers stay engaged before skipping. The higher the average watch time and lower the skip rate, the more engaged the video is. The final prediction label is either 0 (not engaged), 1 (neutral), or 2 (engaged). Please predict one of the three labels for this video, based on its contents only."
+            },
+            {
+                "from": "gpt",
+                "value": "The engagement label of the video is 0."
+            }
+        ]
+    },
+    {
+        "video": "test/adaf40079e4327e40aeb7daaab575bd2.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis video is a SnapChat video on one of many categories. The engagement rate defined for each such video is based on the average watch time and how long viewers stay engaged before skipping. The higher the average watch time and lower the skip rate, the more engaged the video is. The final prediction label is either 0 (not engaged), 1 (neutral), or 2 (engaged). Please predict one of the three labels for this video, based on its contents only."
+            },
+            {
+                "from": "gpt",
+                "value": "The engagement label of the video is 0."
+            }
+        ]
+    },
+    {
+        "video": "test/ec741d9c4003161e3404d77be34f7ee1.mp4",
+        "label": "1",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis video is a SnapChat video on one of many categories. The engagement rate defined for each such video is based on the average watch time and how long viewers stay engaged before skipping. The higher the average watch time and lower the skip rate, the more engaged the video is. The final prediction label is either 0 (not engaged), 1 (neutral), or 2 (engaged). Please predict one of the three labels for this video, based on its contents only."
+            },
+            {
+                "from": "gpt",
+                "value": "The engagement label of the video is 1."
+            }
+        ]
+    },
+    {
+        "video": "test/dd492a9d7c837562faaf67149daa9de8.mp4",
+        "label": "1",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis video is a SnapChat video on one of many categories. The engagement rate defined for each such video is based on the average watch time and how long viewers stay engaged before skipping. The higher the average watch time and lower the skip rate, the more engaged the video is. The final prediction label is either 0 (not engaged), 1 (neutral), or 2 (engaged). Please predict one of the three labels for this video, based on its contents only."
+            },
+            {
+                "from": "gpt",
+                "value": "The engagement label of the video is 1."
+            }
+        ]
+    },
+    {
+        "video": "test/0ef403b60d0d361d5f268dbcf57da46e.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis video is a SnapChat video on one of many categories. The engagement rate defined for each such video is based on the average watch time and how long viewers stay engaged before skipping. The higher the average watch time and lower the skip rate, the more engaged the video is. The final prediction label is either 0 (not engaged), 1 (neutral), or 2 (engaged). Please predict one of the three labels for this video, based on its contents only."
+            },
+            {
+                "from": "gpt",
+                "value": "The engagement label of the video is 0."
+            }
+        ]
+    },
+    {
+        "video": "test/b5c3fe3ab5b4c5c7f8add6392bde4598.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis video is a SnapChat video on one of many categories. The engagement rate defined for each such video is based on the average watch time and how long viewers stay engaged before skipping. The higher the average watch time and lower the skip rate, the more engaged the video is. The final prediction label is either 0 (not engaged), 1 (neutral), or 2 (engaged). Please predict one of the three labels for this video, based on its contents only."
+            },
+            {
+                "from": "gpt",
+                "value": "The engagement label of the video is 0."
+            }
+        ]
+    },
+    {
+        "video": "test/87b6e17bd7c3727595bd16f4a9b75103.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis video is a SnapChat video on one of many categories. The engagement rate defined for each such video is based on the average watch time and how long viewers stay engaged before skipping. The higher the average watch time and lower the skip rate, the more engaged the video is. The final prediction label is either 0 (not engaged), 1 (neutral), or 2 (engaged). Please predict one of the three labels for this video, based on its contents only."
+            },
+            {
+                "from": "gpt",
+                "value": "The engagement label of the video is 0."
+            }
+        ]
+    },
+    {
+        "video": "test/7c202ad59f677222731157d918aaf462.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis video is a SnapChat video on one of many categories. The engagement rate defined for each such video is based on the average watch time and how long viewers stay engaged before skipping. The higher the average watch time and lower the skip rate, the more engaged the video is. The final prediction label is either 0 (not engaged), 1 (neutral), or 2 (engaged). Please predict one of the three labels for this video, based on its contents only."
+            },
+            {
+                "from": "gpt",
+                "value": "The engagement label of the video is 0."
+            }
+        ]
+    },
+    {
+        "video": "test/b388e270f91b55c955bf0cd7ab657d70.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis video is a SnapChat video on one of many categories. The engagement rate defined for each such video is based on the average watch time and how long viewers stay engaged before skipping. The higher the average watch time and lower the skip rate, the more engaged the video is. The final prediction label is either 0 (not engaged), 1 (neutral), or 2 (engaged). Please predict one of the three labels for this video, based on its contents only."
+            },
+            {
+                "from": "gpt",
+                "value": "The engagement label of the video is 0."
+            }
+        ]
+    },
+    {
+        "video": "test/56c0c68b339b053127fa656be99b272d.mp4",
+        "label": "2",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis video is a SnapChat video on one of many categories. The engagement rate defined for each such video is based on the average watch time and how long viewers stay engaged before skipping. The higher the average watch time and lower the skip rate, the more engaged the video is. The final prediction label is either 0 (not engaged), 1 (neutral), or 2 (engaged). Please predict one of the three labels for this video, based on its contents only."
+            },
+            {
+                "from": "gpt",
+                "value": "The engagement label of the video is 2."
+            }
+        ]
+    },
+    {
+        "video": "test/726ddd32893337aadb4cd8ee679a4c7f.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis video is a SnapChat video on one of many categories. The engagement rate defined for each such video is based on the average watch time and how long viewers stay engaged before skipping. The higher the average watch time and lower the skip rate, the more engaged the video is. The final prediction label is either 0 (not engaged), 1 (neutral), or 2 (engaged). Please predict one of the three labels for this video, based on its contents only."
+            },
+            {
+                "from": "gpt",
+                "value": "The engagement label of the video is 0."
+            }
+        ]
+    },
+    {
+        "video": "test/27ff09ba24b5c6d85b797fd65f6a0cf4.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis video is a SnapChat video on one of many categories. The engagement rate defined for each such video is based on the average watch time and how long viewers stay engaged before skipping. The higher the average watch time and lower the skip rate, the more engaged the video is. The final prediction label is either 0 (not engaged), 1 (neutral), or 2 (engaged). Please predict one of the three labels for this video, based on its contents only."
+            },
+            {
+                "from": "gpt",
+                "value": "The engagement label of the video is 0."
+            }
+        ]
+    },
+    {
+        "video": "test/949944738389ca4280587a8b6fbfc771.mp4",
+        "label": "1",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis video is a SnapChat video on one of many categories. The engagement rate defined for each such video is based on the average watch time and how long viewers stay engaged before skipping. The higher the average watch time and lower the skip rate, the more engaged the video is. The final prediction label is either 0 (not engaged), 1 (neutral), or 2 (engaged). Please predict one of the three labels for this video, based on its contents only."
+            },
+            {
+                "from": "gpt",
+                "value": "The engagement label of the video is 1."
+            }
+        ]
+    },
+    {
+        "video": "test/0208f7cc8d50c7e18bde41a655690986.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis video is a SnapChat video on one of many categories. The engagement rate defined for each such video is based on the average watch time and how long viewers stay engaged before skipping. The higher the average watch time and lower the skip rate, the more engaged the video is. The final prediction label is either 0 (not engaged), 1 (neutral), or 2 (engaged). Please predict one of the three labels for this video, based on its contents only."
+            },
+            {
+                "from": "gpt",
+                "value": "The engagement label of the video is 0."
+            }
+        ]
+    },
+    {
+        "video": "test/cc42bce1ffd94e1f7fe468c73440926f.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis video is a SnapChat video on one of many categories. The engagement rate defined for each such video is based on the average watch time and how long viewers stay engaged before skipping. The higher the average watch time and lower the skip rate, the more engaged the video is. The final prediction label is either 0 (not engaged), 1 (neutral), or 2 (engaged). Please predict one of the three labels for this video, based on its contents only."
+            },
+            {
+                "from": "gpt",
+                "value": "The engagement label of the video is 0."
+            }
+        ]
+    },
+    {
+        "video": "test/8c1e9adc09447b0799328a39a4a07d87.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis video is a SnapChat video on one of many categories. The engagement rate defined for each such video is based on the average watch time and how long viewers stay engaged before skipping. The higher the average watch time and lower the skip rate, the more engaged the video is. The final prediction label is either 0 (not engaged), 1 (neutral), or 2 (engaged). Please predict one of the three labels for this video, based on its contents only."
+            },
+            {
+                "from": "gpt",
+                "value": "The engagement label of the video is 0."
+            }
+        ]
+    },
+    {
+        "video": "test/1aea9ab75fc6108a16f3c039c4db3fa2.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis video is a SnapChat video on one of many categories. The engagement rate defined for each such video is based on the average watch time and how long viewers stay engaged before skipping. The higher the average watch time and lower the skip rate, the more engaged the video is. The final prediction label is either 0 (not engaged), 1 (neutral), or 2 (engaged). Please predict one of the three labels for this video, based on its contents only."
+            },
+            {
+                "from": "gpt",
+                "value": "The engagement label of the video is 0."
+            }
+        ]
+    },
+    {
+        "video": "test/924f1121671c83dd81c8e62d21140663.mp4",
+        "label": "1",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis video is a SnapChat video on one of many categories. The engagement rate defined for each such video is based on the average watch time and how long viewers stay engaged before skipping. The higher the average watch time and lower the skip rate, the more engaged the video is. The final prediction label is either 0 (not engaged), 1 (neutral), or 2 (engaged). Please predict one of the three labels for this video, based on its contents only."
+            },
+            {
+                "from": "gpt",
+                "value": "The engagement label of the video is 1."
+            }
+        ]
+    },
+    {
+        "video": "test/1bbabfd482178b70b7fcfa5a3551a508.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis video is a SnapChat video on one of many categories. The engagement rate defined for each such video is based on the average watch time and how long viewers stay engaged before skipping. The higher the average watch time and lower the skip rate, the more engaged the video is. The final prediction label is either 0 (not engaged), 1 (neutral), or 2 (engaged). Please predict one of the three labels for this video, based on its contents only."
+            },
+            {
+                "from": "gpt",
+                "value": "The engagement label of the video is 0."
+            }
+        ]
+    },
+    {
+        "video": "test/b040c175e28bfced4ecd069cdb4073e7.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis video is a SnapChat video on one of many categories. The engagement rate defined for each such video is based on the average watch time and how long viewers stay engaged before skipping. The higher the average watch time and lower the skip rate, the more engaged the video is. The final prediction label is either 0 (not engaged), 1 (neutral), or 2 (engaged). Please predict one of the three labels for this video, based on its contents only."
+            },
+            {
+                "from": "gpt",
+                "value": "The engagement label of the video is 0."
+            }
+        ]
+    },
+    {
+        "video": "test/7c7fcc401903c8f18d81e2485755cc35.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis video is a SnapChat video on one of many categories. The engagement rate defined for each such video is based on the average watch time and how long viewers stay engaged before skipping. The higher the average watch time and lower the skip rate, the more engaged the video is. The final prediction label is either 0 (not engaged), 1 (neutral), or 2 (engaged). Please predict one of the three labels for this video, based on its contents only."
+            },
+            {
+                "from": "gpt",
+                "value": "The engagement label of the video is 0."
+            }
+        ]
+    },
+    {
+        "video": "test/2839408cb4c1d75426347569383eb293.mp4",
+        "label": "1",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis video is a SnapChat video on one of many categories. The engagement rate defined for each such video is based on the average watch time and how long viewers stay engaged before skipping. The higher the average watch time and lower the skip rate, the more engaged the video is. The final prediction label is either 0 (not engaged), 1 (neutral), or 2 (engaged). Please predict one of the three labels for this video, based on its contents only."
+            },
+            {
+                "from": "gpt",
+                "value": "The engagement label of the video is 1."
+            }
+        ]
+    },
+    {
+        "video": "test/9239ee46e21578572fa3956138f33c5d.mp4",
+        "label": "1",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis video is a SnapChat video on one of many categories. The engagement rate defined for each such video is based on the average watch time and how long viewers stay engaged before skipping. The higher the average watch time and lower the skip rate, the more engaged the video is. The final prediction label is either 0 (not engaged), 1 (neutral), or 2 (engaged). Please predict one of the three labels for this video, based on its contents only."
+            },
+            {
+                "from": "gpt",
+                "value": "The engagement label of the video is 1."
+            }
+        ]
+    },
+    {
+        "video": "test/0d8f608d34f17c699695eaec776c7791.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis video is a SnapChat video on one of many categories. The engagement rate defined for each such video is based on the average watch time and how long viewers stay engaged before skipping. The higher the average watch time and lower the skip rate, the more engaged the video is. The final prediction label is either 0 (not engaged), 1 (neutral), or 2 (engaged). Please predict one of the three labels for this video, based on its contents only."
+            },
+            {
+                "from": "gpt",
+                "value": "The engagement label of the video is 0."
+            }
+        ]
+    },
+    {
+        "video": "test/9d07366ed971f4314d0ab4d3ead0f5c7.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis video is a SnapChat video on one of many categories. The engagement rate defined for each such video is based on the average watch time and how long viewers stay engaged before skipping. The higher the average watch time and lower the skip rate, the more engaged the video is. The final prediction label is either 0 (not engaged), 1 (neutral), or 2 (engaged). Please predict one of the three labels for this video, based on its contents only."
+            },
+            {
+                "from": "gpt",
+                "value": "The engagement label of the video is 0."
+            }
+        ]
+    },
+    {
+        "video": "test/d265f770f1ba050ba91be1730deb05ac.mp4",
+        "label": "1",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis video is a SnapChat video on one of many categories. The engagement rate defined for each such video is based on the average watch time and how long viewers stay engaged before skipping. The higher the average watch time and lower the skip rate, the more engaged the video is. The final prediction label is either 0 (not engaged), 1 (neutral), or 2 (engaged). Please predict one of the three labels for this video, based on its contents only."
+            },
+            {
+                "from": "gpt",
+                "value": "The engagement label of the video is 1."
+            }
+        ]
+    },
+    {
+        "video": "test/2d11565f2643330802d20159ed3b01e7.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis video is a SnapChat video on one of many categories. The engagement rate defined for each such video is based on the average watch time and how long viewers stay engaged before skipping. The higher the average watch time and lower the skip rate, the more engaged the video is. The final prediction label is either 0 (not engaged), 1 (neutral), or 2 (engaged). Please predict one of the three labels for this video, based on its contents only."
+            },
+            {
+                "from": "gpt",
+                "value": "The engagement label of the video is 0."
+            }
+        ]
+    },
+    {
+        "video": "test/0da3474c2a52d288fa54a6245ed1fc52.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis video is a SnapChat video on one of many categories. The engagement rate defined for each such video is based on the average watch time and how long viewers stay engaged before skipping. The higher the average watch time and lower the skip rate, the more engaged the video is. The final prediction label is either 0 (not engaged), 1 (neutral), or 2 (engaged). Please predict one of the three labels for this video, based on its contents only."
+            },
+            {
+                "from": "gpt",
+                "value": "The engagement label of the video is 0."
+            }
+        ]
+    },
+    {
+        "video": "test/32c491bb43c9a4b4f01b130a00630cf6.mp4",
+        "label": "1",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis video is a SnapChat video on one of many categories. The engagement rate defined for each such video is based on the average watch time and how long viewers stay engaged before skipping. The higher the average watch time and lower the skip rate, the more engaged the video is. The final prediction label is either 0 (not engaged), 1 (neutral), or 2 (engaged). Please predict one of the three labels for this video, based on its contents only."
+            },
+            {
+                "from": "gpt",
+                "value": "The engagement label of the video is 1."
+            }
+        ]
+    },
+    {
+        "video": "test/f256d2767ba9523c75d9df830a6ec552.mp4",
+        "label": "2",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis video is a SnapChat video on one of many categories. The engagement rate defined for each such video is based on the average watch time and how long viewers stay engaged before skipping. The higher the average watch time and lower the skip rate, the more engaged the video is. The final prediction label is either 0 (not engaged), 1 (neutral), or 2 (engaged). Please predict one of the three labels for this video, based on its contents only."
+            },
+            {
+                "from": "gpt",
+                "value": "The engagement label of the video is 2."
+            }
+        ]
+    },
+    {
+        "video": "test/00e5ff92da06be937604762794240e9c.mp4",
+        "label": "1",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis video is a SnapChat video on one of many categories. The engagement rate defined for each such video is based on the average watch time and how long viewers stay engaged before skipping. The higher the average watch time and lower the skip rate, the more engaged the video is. The final prediction label is either 0 (not engaged), 1 (neutral), or 2 (engaged). Please predict one of the three labels for this video, based on its contents only."
+            },
+            {
+                "from": "gpt",
+                "value": "The engagement label of the video is 1."
+            }
+        ]
+    },
+    {
+        "video": "test/b0dc4b5dcaa45729bc87c18ca631ee2b.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis video is a SnapChat video on one of many categories. The engagement rate defined for each such video is based on the average watch time and how long viewers stay engaged before skipping. The higher the average watch time and lower the skip rate, the more engaged the video is. The final prediction label is either 0 (not engaged), 1 (neutral), or 2 (engaged). Please predict one of the three labels for this video, based on its contents only."
+            },
+            {
+                "from": "gpt",
+                "value": "The engagement label of the video is 0."
+            }
+        ]
+    },
+    {
+        "video": "test/478860f0697f137f4957c11926fce8e0.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis video is a SnapChat video on one of many categories. The engagement rate defined for each such video is based on the average watch time and how long viewers stay engaged before skipping. The higher the average watch time and lower the skip rate, the more engaged the video is. The final prediction label is either 0 (not engaged), 1 (neutral), or 2 (engaged). Please predict one of the three labels for this video, based on its contents only."
+            },
+            {
+                "from": "gpt",
+                "value": "The engagement label of the video is 0."
+            }
+        ]
+    },
+    {
+        "video": "test/2fb2cdaca31b59fb5125e4ab118973cc.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis video is a SnapChat video on one of many categories. The engagement rate defined for each such video is based on the average watch time and how long viewers stay engaged before skipping. The higher the average watch time and lower the skip rate, the more engaged the video is. The final prediction label is either 0 (not engaged), 1 (neutral), or 2 (engaged). Please predict one of the three labels for this video, based on its contents only."
+            },
+            {
+                "from": "gpt",
+                "value": "The engagement label of the video is 0."
+            }
+        ]
+    },
+    {
+        "video": "test/aadb0d0546a6f28d6041cfff8caf4ff5.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis video is a SnapChat video on one of many categories. The engagement rate defined for each such video is based on the average watch time and how long viewers stay engaged before skipping. The higher the average watch time and lower the skip rate, the more engaged the video is. The final prediction label is either 0 (not engaged), 1 (neutral), or 2 (engaged). Please predict one of the three labels for this video, based on its contents only."
+            },
+            {
+                "from": "gpt",
+                "value": "The engagement label of the video is 0."
+            }
+        ]
+    },
+    {
+        "video": "test/d9ad0f6a00729bce366596e2c8be8a81.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis video is a SnapChat video on one of many categories. The engagement rate defined for each such video is based on the average watch time and how long viewers stay engaged before skipping. The higher the average watch time and lower the skip rate, the more engaged the video is. The final prediction label is either 0 (not engaged), 1 (neutral), or 2 (engaged). Please predict one of the three labels for this video, based on its contents only."
+            },
+            {
+                "from": "gpt",
+                "value": "The engagement label of the video is 0."
+            }
+        ]
+    },
+    {
+        "video": "test/db2ead7d3bb8339ecc8210120a62fc41.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis video is a SnapChat video on one of many categories. The engagement rate defined for each such video is based on the average watch time and how long viewers stay engaged before skipping. The higher the average watch time and lower the skip rate, the more engaged the video is. The final prediction label is either 0 (not engaged), 1 (neutral), or 2 (engaged). Please predict one of the three labels for this video, based on its contents only."
+            },
+            {
+                "from": "gpt",
+                "value": "The engagement label of the video is 0."
+            }
+        ]
+    },
+    {
+        "video": "test/465daf8b0f108c0aa81d6749b9f016ad.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis video is a SnapChat video on one of many categories. The engagement rate defined for each such video is based on the average watch time and how long viewers stay engaged before skipping. The higher the average watch time and lower the skip rate, the more engaged the video is. The final prediction label is either 0 (not engaged), 1 (neutral), or 2 (engaged). Please predict one of the three labels for this video, based on its contents only."
+            },
+            {
+                "from": "gpt",
+                "value": "The engagement label of the video is 0."
+            }
+        ]
+    },
+    {
+        "video": "test/3f42286f7107b2dfd52f7105b9dfffff.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis video is a SnapChat video on one of many categories. The engagement rate defined for each such video is based on the average watch time and how long viewers stay engaged before skipping. The higher the average watch time and lower the skip rate, the more engaged the video is. The final prediction label is either 0 (not engaged), 1 (neutral), or 2 (engaged). Please predict one of the three labels for this video, based on its contents only."
+            },
+            {
+                "from": "gpt",
+                "value": "The engagement label of the video is 0."
+            }
+        ]
+    },
+    {
+        "video": "test/190c6c46bc33766781825bfab30a772f.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis video is a SnapChat video on one of many categories. The engagement rate defined for each such video is based on the average watch time and how long viewers stay engaged before skipping. The higher the average watch time and lower the skip rate, the more engaged the video is. The final prediction label is either 0 (not engaged), 1 (neutral), or 2 (engaged). Please predict one of the three labels for this video, based on its contents only."
+            },
+            {
+                "from": "gpt",
+                "value": "The engagement label of the video is 0."
+            }
+        ]
+    },
+    {
+        "video": "test/052d97f6c326bd7478fb885900756267.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis video is a SnapChat video on one of many categories. The engagement rate defined for each such video is based on the average watch time and how long viewers stay engaged before skipping. The higher the average watch time and lower the skip rate, the more engaged the video is. The final prediction label is either 0 (not engaged), 1 (neutral), or 2 (engaged). Please predict one of the three labels for this video, based on its contents only."
+            },
+            {
+                "from": "gpt",
+                "value": "The engagement label of the video is 0."
+            }
+        ]
+    },
+    {
+        "video": "test/b6740fc6e4056c5d9d291480deda1f12.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis video is a SnapChat video on one of many categories. The engagement rate defined for each such video is based on the average watch time and how long viewers stay engaged before skipping. The higher the average watch time and lower the skip rate, the more engaged the video is. The final prediction label is either 0 (not engaged), 1 (neutral), or 2 (engaged). Please predict one of the three labels for this video, based on its contents only."
+            },
+            {
+                "from": "gpt",
+                "value": "The engagement label of the video is 0."
+            }
+        ]
+    },
+    {
+        "video": "test/7ddc462f7e04216def6f97d4e9dda071.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis video is a SnapChat video on one of many categories. The engagement rate defined for each such video is based on the average watch time and how long viewers stay engaged before skipping. The higher the average watch time and lower the skip rate, the more engaged the video is. The final prediction label is either 0 (not engaged), 1 (neutral), or 2 (engaged). Please predict one of the three labels for this video, based on its contents only."
+            },
+            {
+                "from": "gpt",
+                "value": "The engagement label of the video is 0."
+            }
+        ]
+    },
+    {
+        "video": "test/0d852e9d428d14f30b3634dc59c10cdb.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis video is a SnapChat video on one of many categories. The engagement rate defined for each such video is based on the average watch time and how long viewers stay engaged before skipping. The higher the average watch time and lower the skip rate, the more engaged the video is. The final prediction label is either 0 (not engaged), 1 (neutral), or 2 (engaged). Please predict one of the three labels for this video, based on its contents only."
+            },
+            {
+                "from": "gpt",
+                "value": "The engagement label of the video is 0."
+            }
+        ]
+    },
+    {
+        "video": "test/0f778b8592223fc05dc1eb897cc14c85.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis video is a SnapChat video on one of many categories. The engagement rate defined for each such video is based on the average watch time and how long viewers stay engaged before skipping. The higher the average watch time and lower the skip rate, the more engaged the video is. The final prediction label is either 0 (not engaged), 1 (neutral), or 2 (engaged). Please predict one of the three labels for this video, based on its contents only."
+            },
+            {
+                "from": "gpt",
+                "value": "The engagement label of the video is 0."
+            }
+        ]
+    },
+    {
+        "video": "test/ac7c5cf735ac162853c529d8c25586a6.mp4",
+        "label": "2",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis video is a SnapChat video on one of many categories. The engagement rate defined for each such video is based on the average watch time and how long viewers stay engaged before skipping. The higher the average watch time and lower the skip rate, the more engaged the video is. The final prediction label is either 0 (not engaged), 1 (neutral), or 2 (engaged). Please predict one of the three labels for this video, based on its contents only."
+            },
+            {
+                "from": "gpt",
+                "value": "The engagement label of the video is 2."
+            }
+        ]
+    },
+    {
+        "video": "test/cff55969e92964539bc70aedfbebdabe.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis video is a SnapChat video on one of many categories. The engagement rate defined for each such video is based on the average watch time and how long viewers stay engaged before skipping. The higher the average watch time and lower the skip rate, the more engaged the video is. The final prediction label is either 0 (not engaged), 1 (neutral), or 2 (engaged). Please predict one of the three labels for this video, based on its contents only."
+            },
+            {
+                "from": "gpt",
+                "value": "The engagement label of the video is 0."
+            }
+        ]
+    },
+    {
+        "video": "test/a60bd7861e2f6c5db2a7ab7322cfe6b6.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis video is a SnapChat video on one of many categories. The engagement rate defined for each such video is based on the average watch time and how long viewers stay engaged before skipping. The higher the average watch time and lower the skip rate, the more engaged the video is. The final prediction label is either 0 (not engaged), 1 (neutral), or 2 (engaged). Please predict one of the three labels for this video, based on its contents only."
+            },
+            {
+                "from": "gpt",
+                "value": "The engagement label of the video is 0."
+            }
+        ]
+    },
+    {
+        "video": "test/f6c84174145b772a45352733d0d9d0c2.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis video is a SnapChat video on one of many categories. The engagement rate defined for each such video is based on the average watch time and how long viewers stay engaged before skipping. The higher the average watch time and lower the skip rate, the more engaged the video is. The final prediction label is either 0 (not engaged), 1 (neutral), or 2 (engaged). Please predict one of the three labels for this video, based on its contents only."
+            },
+            {
+                "from": "gpt",
+                "value": "The engagement label of the video is 0."
+            }
+        ]
+    },
+    {
+        "video": "test/ddcca64d177dac8eba70baa8d683df62.mp4",
+        "label": "1",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis video is a SnapChat video on one of many categories. The engagement rate defined for each such video is based on the average watch time and how long viewers stay engaged before skipping. The higher the average watch time and lower the skip rate, the more engaged the video is. The final prediction label is either 0 (not engaged), 1 (neutral), or 2 (engaged). Please predict one of the three labels for this video, based on its contents only."
+            },
+            {
+                "from": "gpt",
+                "value": "The engagement label of the video is 1."
+            }
+        ]
+    },
+    {
+        "video": "test/2773083e88caf98715772467de99eeee.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis video is a SnapChat video on one of many categories. The engagement rate defined for each such video is based on the average watch time and how long viewers stay engaged before skipping. The higher the average watch time and lower the skip rate, the more engaged the video is. The final prediction label is either 0 (not engaged), 1 (neutral), or 2 (engaged). Please predict one of the three labels for this video, based on its contents only."
+            },
+            {
+                "from": "gpt",
+                "value": "The engagement label of the video is 0."
+            }
+        ]
+    },
+    {
+        "video": "test/78230c651a6c5f92bddb912147604408.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis video is a SnapChat video on one of many categories. The engagement rate defined for each such video is based on the average watch time and how long viewers stay engaged before skipping. The higher the average watch time and lower the skip rate, the more engaged the video is. The final prediction label is either 0 (not engaged), 1 (neutral), or 2 (engaged). Please predict one of the three labels for this video, based on its contents only."
+            },
+            {
+                "from": "gpt",
+                "value": "The engagement label of the video is 0."
+            }
+        ]
+    },
+    {
+        "video": "test/336195f09105963e7741b1f79f25be81.mp4",
+        "label": "1",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis video is a SnapChat video on one of many categories. The engagement rate defined for each such video is based on the average watch time and how long viewers stay engaged before skipping. The higher the average watch time and lower the skip rate, the more engaged the video is. The final prediction label is either 0 (not engaged), 1 (neutral), or 2 (engaged). Please predict one of the three labels for this video, based on its contents only."
+            },
+            {
+                "from": "gpt",
+                "value": "The engagement label of the video is 1."
+            }
+        ]
+    },
+    {
+        "video": "test/4595457cd062c55b9ab3b4915da73957.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis video is a SnapChat video on one of many categories. The engagement rate defined for each such video is based on the average watch time and how long viewers stay engaged before skipping. The higher the average watch time and lower the skip rate, the more engaged the video is. The final prediction label is either 0 (not engaged), 1 (neutral), or 2 (engaged). Please predict one of the three labels for this video, based on its contents only."
+            },
+            {
+                "from": "gpt",
+                "value": "The engagement label of the video is 0."
+            }
+        ]
+    },
+    {
+        "video": "test/1a76de5426fdc00433b57180c12e46f1.mp4",
+        "label": "1",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis video is a SnapChat video on one of many categories. The engagement rate defined for each such video is based on the average watch time and how long viewers stay engaged before skipping. The higher the average watch time and lower the skip rate, the more engaged the video is. The final prediction label is either 0 (not engaged), 1 (neutral), or 2 (engaged). Please predict one of the three labels for this video, based on its contents only."
+            },
+            {
+                "from": "gpt",
+                "value": "The engagement label of the video is 1."
+            }
+        ]
+    },
+    {
+        "video": "test/23026a6f05e0e3e3227622fd1e3eadeb.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis video is a SnapChat video on one of many categories. The engagement rate defined for each such video is based on the average watch time and how long viewers stay engaged before skipping. The higher the average watch time and lower the skip rate, the more engaged the video is. The final prediction label is either 0 (not engaged), 1 (neutral), or 2 (engaged). Please predict one of the three labels for this video, based on its contents only."
+            },
+            {
+                "from": "gpt",
+                "value": "The engagement label of the video is 0."
+            }
+        ]
+    },
+    {
+        "video": "test/aacf53501ec0dc3688598ffa03b46a51.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis video is a SnapChat video on one of many categories. The engagement rate defined for each such video is based on the average watch time and how long viewers stay engaged before skipping. The higher the average watch time and lower the skip rate, the more engaged the video is. The final prediction label is either 0 (not engaged), 1 (neutral), or 2 (engaged). Please predict one of the three labels for this video, based on its contents only."
+            },
+            {
+                "from": "gpt",
+                "value": "The engagement label of the video is 0."
+            }
+        ]
+    },
+    {
+        "video": "test/483b02e913ca59cf2fbc4fc4b5e05a81.mp4",
+        "label": "1",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis video is a SnapChat video on one of many categories. The engagement rate defined for each such video is based on the average watch time and how long viewers stay engaged before skipping. The higher the average watch time and lower the skip rate, the more engaged the video is. The final prediction label is either 0 (not engaged), 1 (neutral), or 2 (engaged). Please predict one of the three labels for this video, based on its contents only."
+            },
+            {
+                "from": "gpt",
+                "value": "The engagement label of the video is 1."
+            }
+        ]
+    },
+    {
+        "video": "test/dbcec5845eca9575f642822426566217.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis video is a SnapChat video on one of many categories. The engagement rate defined for each such video is based on the average watch time and how long viewers stay engaged before skipping. The higher the average watch time and lower the skip rate, the more engaged the video is. The final prediction label is either 0 (not engaged), 1 (neutral), or 2 (engaged). Please predict one of the three labels for this video, based on its contents only."
+            },
+            {
+                "from": "gpt",
+                "value": "The engagement label of the video is 0."
+            }
+        ]
+    },
+    {
+        "video": "test/d075656537316ace0ad4fea07846f033.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis video is a SnapChat video on one of many categories. The engagement rate defined for each such video is based on the average watch time and how long viewers stay engaged before skipping. The higher the average watch time and lower the skip rate, the more engaged the video is. The final prediction label is either 0 (not engaged), 1 (neutral), or 2 (engaged). Please predict one of the three labels for this video, based on its contents only."
+            },
+            {
+                "from": "gpt",
+                "value": "The engagement label of the video is 0."
+            }
+        ]
+    },
+    {
+        "video": "test/85043ddc8fa5a4eb13ee566dc2f4c5e5.mp4",
+        "label": "2",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis video is a SnapChat video on one of many categories. The engagement rate defined for each such video is based on the average watch time and how long viewers stay engaged before skipping. The higher the average watch time and lower the skip rate, the more engaged the video is. The final prediction label is either 0 (not engaged), 1 (neutral), or 2 (engaged). Please predict one of the three labels for this video, based on its contents only."
+            },
+            {
+                "from": "gpt",
+                "value": "The engagement label of the video is 2."
+            }
+        ]
+    },
+    {
+        "video": "test/016cdc857247efd6a64d959d76ce7d94.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis video is a SnapChat video on one of many categories. The engagement rate defined for each such video is based on the average watch time and how long viewers stay engaged before skipping. The higher the average watch time and lower the skip rate, the more engaged the video is. The final prediction label is either 0 (not engaged), 1 (neutral), or 2 (engaged). Please predict one of the three labels for this video, based on its contents only."
+            },
+            {
+                "from": "gpt",
+                "value": "The engagement label of the video is 0."
+            }
+        ]
+    },
+    {
+        "video": "test/7f2184fab5493a8bc0bbe239c7dbf13b.mp4",
+        "label": "1",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis video is a SnapChat video on one of many categories. The engagement rate defined for each such video is based on the average watch time and how long viewers stay engaged before skipping. The higher the average watch time and lower the skip rate, the more engaged the video is. The final prediction label is either 0 (not engaged), 1 (neutral), or 2 (engaged). Please predict one of the three labels for this video, based on its contents only."
+            },
+            {
+                "from": "gpt",
+                "value": "The engagement label of the video is 1."
+            }
+        ]
+    },
+    {
+        "video": "test/8351d6ea0c8eb3a972a86e66c584197d.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis video is a SnapChat video on one of many categories. The engagement rate defined for each such video is based on the average watch time and how long viewers stay engaged before skipping. The higher the average watch time and lower the skip rate, the more engaged the video is. The final prediction label is either 0 (not engaged), 1 (neutral), or 2 (engaged). Please predict one of the three labels for this video, based on its contents only."
+            },
+            {
+                "from": "gpt",
+                "value": "The engagement label of the video is 0."
+            }
+        ]
+    },
+    {
+        "video": "test/92a930d47abb646c06a918d3362a9949.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis video is a SnapChat video on one of many categories. The engagement rate defined for each such video is based on the average watch time and how long viewers stay engaged before skipping. The higher the average watch time and lower the skip rate, the more engaged the video is. The final prediction label is either 0 (not engaged), 1 (neutral), or 2 (engaged). Please predict one of the three labels for this video, based on its contents only."
+            },
+            {
+                "from": "gpt",
+                "value": "The engagement label of the video is 0."
+            }
+        ]
+    },
+    {
+        "video": "test/153bdc65bf58ca0f0ccdc88f45553b95.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis video is a SnapChat video on one of many categories. The engagement rate defined for each such video is based on the average watch time and how long viewers stay engaged before skipping. The higher the average watch time and lower the skip rate, the more engaged the video is. The final prediction label is either 0 (not engaged), 1 (neutral), or 2 (engaged). Please predict one of the three labels for this video, based on its contents only."
+            },
+            {
+                "from": "gpt",
+                "value": "The engagement label of the video is 0."
+            }
+        ]
+    },
+    {
+        "video": "test/ffc49121be8cab32019dcac178e2ffe3.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis video is a SnapChat video on one of many categories. The engagement rate defined for each such video is based on the average watch time and how long viewers stay engaged before skipping. The higher the average watch time and lower the skip rate, the more engaged the video is. The final prediction label is either 0 (not engaged), 1 (neutral), or 2 (engaged). Please predict one of the three labels for this video, based on its contents only."
+            },
+            {
+                "from": "gpt",
+                "value": "The engagement label of the video is 0."
+            }
+        ]
+    },
+    {
+        "video": "test/ac1bcca4661e63d9372d140ec4beabb7.mp4",
+        "label": "2",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis video is a SnapChat video on one of many categories. The engagement rate defined for each such video is based on the average watch time and how long viewers stay engaged before skipping. The higher the average watch time and lower the skip rate, the more engaged the video is. The final prediction label is either 0 (not engaged), 1 (neutral), or 2 (engaged). Please predict one of the three labels for this video, based on its contents only."
+            },
+            {
+                "from": "gpt",
+                "value": "The engagement label of the video is 2."
+            }
+        ]
+    },
+    {
+        "video": "test/938c39d8ed85f680b74de8295d6bb3d7.mp4",
+        "label": "1",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis video is a SnapChat video on one of many categories. The engagement rate defined for each such video is based on the average watch time and how long viewers stay engaged before skipping. The higher the average watch time and lower the skip rate, the more engaged the video is. The final prediction label is either 0 (not engaged), 1 (neutral), or 2 (engaged). Please predict one of the three labels for this video, based on its contents only."
+            },
+            {
+                "from": "gpt",
+                "value": "The engagement label of the video is 1."
+            }
+        ]
+    },
+    {
+        "video": "test/0ada4a54b0f74f86561075531f71ffaa.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis video is a SnapChat video on one of many categories. The engagement rate defined for each such video is based on the average watch time and how long viewers stay engaged before skipping. The higher the average watch time and lower the skip rate, the more engaged the video is. The final prediction label is either 0 (not engaged), 1 (neutral), or 2 (engaged). Please predict one of the three labels for this video, based on its contents only."
+            },
+            {
+                "from": "gpt",
+                "value": "The engagement label of the video is 0."
+            }
+        ]
+    },
+    {
+        "video": "test/44f114f99653a59d4d647dfa970b7844.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis video is a SnapChat video on one of many categories. The engagement rate defined for each such video is based on the average watch time and how long viewers stay engaged before skipping. The higher the average watch time and lower the skip rate, the more engaged the video is. The final prediction label is either 0 (not engaged), 1 (neutral), or 2 (engaged). Please predict one of the three labels for this video, based on its contents only."
+            },
+            {
+                "from": "gpt",
+                "value": "The engagement label of the video is 0."
+            }
+        ]
+    },
+    {
+        "video": "test/49b1652a8e06cfdda6734a80abf9d336.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis video is a SnapChat video on one of many categories. The engagement rate defined for each such video is based on the average watch time and how long viewers stay engaged before skipping. The higher the average watch time and lower the skip rate, the more engaged the video is. The final prediction label is either 0 (not engaged), 1 (neutral), or 2 (engaged). Please predict one of the three labels for this video, based on its contents only."
+            },
+            {
+                "from": "gpt",
+                "value": "The engagement label of the video is 0."
+            }
+        ]
+    },
+    {
+        "video": "test/7c73796537e12e3c5c2b7d03dc8dca2a.mp4",
+        "label": "2",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis video is a SnapChat video on one of many categories. The engagement rate defined for each such video is based on the average watch time and how long viewers stay engaged before skipping. The higher the average watch time and lower the skip rate, the more engaged the video is. The final prediction label is either 0 (not engaged), 1 (neutral), or 2 (engaged). Please predict one of the three labels for this video, based on its contents only."
+            },
+            {
+                "from": "gpt",
+                "value": "The engagement label of the video is 2."
+            }
+        ]
+    },
+    {
+        "video": "test/ef7c15d8afb90abd7c1e53168a5c4ca2.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis video is a SnapChat video on one of many categories. The engagement rate defined for each such video is based on the average watch time and how long viewers stay engaged before skipping. The higher the average watch time and lower the skip rate, the more engaged the video is. The final prediction label is either 0 (not engaged), 1 (neutral), or 2 (engaged). Please predict one of the three labels for this video, based on its contents only."
+            },
+            {
+                "from": "gpt",
+                "value": "The engagement label of the video is 0."
+            }
+        ]
+    },
+    {
+        "video": "test/089b3dcb9ee57149587fab45f070bf89.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis video is a SnapChat video on one of many categories. The engagement rate defined for each such video is based on the average watch time and how long viewers stay engaged before skipping. The higher the average watch time and lower the skip rate, the more engaged the video is. The final prediction label is either 0 (not engaged), 1 (neutral), or 2 (engaged). Please predict one of the three labels for this video, based on its contents only."
+            },
+            {
+                "from": "gpt",
+                "value": "The engagement label of the video is 0."
+            }
+        ]
+    },
+    {
+        "video": "test/537bd4ce6ee4f52faef7bb6676a9d5d3.mp4",
+        "label": "1",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis video is a SnapChat video on one of many categories. The engagement rate defined for each such video is based on the average watch time and how long viewers stay engaged before skipping. The higher the average watch time and lower the skip rate, the more engaged the video is. The final prediction label is either 0 (not engaged), 1 (neutral), or 2 (engaged). Please predict one of the three labels for this video, based on its contents only."
+            },
+            {
+                "from": "gpt",
+                "value": "The engagement label of the video is 1."
+            }
+        ]
+    },
+    {
+        "video": "test/6a5e26184c05a1fbcc3dd60f7133194f.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis video is a SnapChat video on one of many categories. The engagement rate defined for each such video is based on the average watch time and how long viewers stay engaged before skipping. The higher the average watch time and lower the skip rate, the more engaged the video is. The final prediction label is either 0 (not engaged), 1 (neutral), or 2 (engaged). Please predict one of the three labels for this video, based on its contents only."
+            },
+            {
+                "from": "gpt",
+                "value": "The engagement label of the video is 0."
+            }
+        ]
+    },
+    {
+        "video": "test/24c1cc7528cb1d7d9e407a446fc673be.mp4",
+        "label": "2",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis video is a SnapChat video on one of many categories. The engagement rate defined for each such video is based on the average watch time and how long viewers stay engaged before skipping. The higher the average watch time and lower the skip rate, the more engaged the video is. The final prediction label is either 0 (not engaged), 1 (neutral), or 2 (engaged). Please predict one of the three labels for this video, based on its contents only."
+            },
+            {
+                "from": "gpt",
+                "value": "The engagement label of the video is 2."
+            }
+        ]
+    },
+    {
+        "video": "test/8bda47f55d14fab91eba5d45efd45c7b.mp4",
+        "label": "2",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis video is a SnapChat video on one of many categories. The engagement rate defined for each such video is based on the average watch time and how long viewers stay engaged before skipping. The higher the average watch time and lower the skip rate, the more engaged the video is. The final prediction label is either 0 (not engaged), 1 (neutral), or 2 (engaged). Please predict one of the three labels for this video, based on its contents only."
+            },
+            {
+                "from": "gpt",
+                "value": "The engagement label of the video is 2."
+            }
+        ]
+    },
+    {
+        "video": "test/1970159f0dadbe0f5cab56b1a7cad2cd.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis video is a SnapChat video on one of many categories. The engagement rate defined for each such video is based on the average watch time and how long viewers stay engaged before skipping. The higher the average watch time and lower the skip rate, the more engaged the video is. The final prediction label is either 0 (not engaged), 1 (neutral), or 2 (engaged). Please predict one of the three labels for this video, based on its contents only."
+            },
+            {
+                "from": "gpt",
+                "value": "The engagement label of the video is 0."
+            }
+        ]
+    },
+    {
+        "video": "test/39887eee6fc0b7828a37de98dcf58bb4.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis video is a SnapChat video on one of many categories. The engagement rate defined for each such video is based on the average watch time and how long viewers stay engaged before skipping. The higher the average watch time and lower the skip rate, the more engaged the video is. The final prediction label is either 0 (not engaged), 1 (neutral), or 2 (engaged). Please predict one of the three labels for this video, based on its contents only."
+            },
+            {
+                "from": "gpt",
+                "value": "The engagement label of the video is 0."
+            }
+        ]
+    },
+    {
+        "video": "test/6429c44956ad4fc2c4d5db8272d2d561.mp4",
+        "label": "2",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis video is a SnapChat video on one of many categories. The engagement rate defined for each such video is based on the average watch time and how long viewers stay engaged before skipping. The higher the average watch time and lower the skip rate, the more engaged the video is. The final prediction label is either 0 (not engaged), 1 (neutral), or 2 (engaged). Please predict one of the three labels for this video, based on its contents only."
+            },
+            {
+                "from": "gpt",
+                "value": "The engagement label of the video is 2."
+            }
+        ]
+    },
+    {
+        "video": "test/5703508cc1eaaa66cb5b72cea6de871b.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis video is a SnapChat video on one of many categories. The engagement rate defined for each such video is based on the average watch time and how long viewers stay engaged before skipping. The higher the average watch time and lower the skip rate, the more engaged the video is. The final prediction label is either 0 (not engaged), 1 (neutral), or 2 (engaged). Please predict one of the three labels for this video, based on its contents only."
+            },
+            {
+                "from": "gpt",
+                "value": "The engagement label of the video is 0."
+            }
+        ]
+    },
+    {
+        "video": "test/a89893d523cdea28d0aa16044498e972.mp4",
+        "label": "1",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis video is a SnapChat video on one of many categories. The engagement rate defined for each such video is based on the average watch time and how long viewers stay engaged before skipping. The higher the average watch time and lower the skip rate, the more engaged the video is. The final prediction label is either 0 (not engaged), 1 (neutral), or 2 (engaged). Please predict one of the three labels for this video, based on its contents only."
+            },
+            {
+                "from": "gpt",
+                "value": "The engagement label of the video is 1."
+            }
+        ]
+    },
+    {
+        "video": "test/11c805864d46ce386a059609e164e097.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis video is a SnapChat video on one of many categories. The engagement rate defined for each such video is based on the average watch time and how long viewers stay engaged before skipping. The higher the average watch time and lower the skip rate, the more engaged the video is. The final prediction label is either 0 (not engaged), 1 (neutral), or 2 (engaged). Please predict one of the three labels for this video, based on its contents only."
+            },
+            {
+                "from": "gpt",
+                "value": "The engagement label of the video is 0."
+            }
+        ]
+    },
+    {
+        "video": "test/3da60dc1ed6091f4851e8896967d0498.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis video is a SnapChat video on one of many categories. The engagement rate defined for each such video is based on the average watch time and how long viewers stay engaged before skipping. The higher the average watch time and lower the skip rate, the more engaged the video is. The final prediction label is either 0 (not engaged), 1 (neutral), or 2 (engaged). Please predict one of the three labels for this video, based on its contents only."
+            },
+            {
+                "from": "gpt",
+                "value": "The engagement label of the video is 0."
+            }
+        ]
+    },
+    {
+        "video": "test/0e4e6d80b3be603ff32223239a3d5b37.mp4",
+        "label": "2",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis video is a SnapChat video on one of many categories. The engagement rate defined for each such video is based on the average watch time and how long viewers stay engaged before skipping. The higher the average watch time and lower the skip rate, the more engaged the video is. The final prediction label is either 0 (not engaged), 1 (neutral), or 2 (engaged). Please predict one of the three labels for this video, based on its contents only."
+            },
+            {
+                "from": "gpt",
+                "value": "The engagement label of the video is 2."
+            }
+        ]
+    },
+    {
+        "video": "test/c3117ec0d520fa652d01e5bab7c7be9e.mp4",
+        "label": "1",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis video is a SnapChat video on one of many categories. The engagement rate defined for each such video is based on the average watch time and how long viewers stay engaged before skipping. The higher the average watch time and lower the skip rate, the more engaged the video is. The final prediction label is either 0 (not engaged), 1 (neutral), or 2 (engaged). Please predict one of the three labels for this video, based on its contents only."
+            },
+            {
+                "from": "gpt",
+                "value": "The engagement label of the video is 1."
+            }
+        ]
+    },
+    {
+        "video": "test/c9233dec139c4116d48a14b9f97c624a.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis video is a SnapChat video on one of many categories. The engagement rate defined for each such video is based on the average watch time and how long viewers stay engaged before skipping. The higher the average watch time and lower the skip rate, the more engaged the video is. The final prediction label is either 0 (not engaged), 1 (neutral), or 2 (engaged). Please predict one of the three labels for this video, based on its contents only."
+            },
+            {
+                "from": "gpt",
+                "value": "The engagement label of the video is 0."
+            }
+        ]
+    },
+    {
+        "video": "test/3637eb5ad422169622c08e1819ba99cf.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis video is a SnapChat video on one of many categories. The engagement rate defined for each such video is based on the average watch time and how long viewers stay engaged before skipping. The higher the average watch time and lower the skip rate, the more engaged the video is. The final prediction label is either 0 (not engaged), 1 (neutral), or 2 (engaged). Please predict one of the three labels for this video, based on its contents only."
+            },
+            {
+                "from": "gpt",
+                "value": "The engagement label of the video is 0."
+            }
+        ]
+    },
+    {
+        "video": "test/badc9a43638fdddd6f77bba0c8c42d1c.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis video is a SnapChat video on one of many categories. The engagement rate defined for each such video is based on the average watch time and how long viewers stay engaged before skipping. The higher the average watch time and lower the skip rate, the more engaged the video is. The final prediction label is either 0 (not engaged), 1 (neutral), or 2 (engaged). Please predict one of the three labels for this video, based on its contents only."
+            },
+            {
+                "from": "gpt",
+                "value": "The engagement label of the video is 0."
+            }
+        ]
+    },
+    {
+        "video": "test/3d9ed8cdcf451657e9b889088e9c413f.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis video is a SnapChat video on one of many categories. The engagement rate defined for each such video is based on the average watch time and how long viewers stay engaged before skipping. The higher the average watch time and lower the skip rate, the more engaged the video is. The final prediction label is either 0 (not engaged), 1 (neutral), or 2 (engaged). Please predict one of the three labels for this video, based on its contents only."
+            },
+            {
+                "from": "gpt",
+                "value": "The engagement label of the video is 0."
+            }
+        ]
+    },
+    {
+        "video": "test/ebb6003c4ae34e91e43125fbe87f78f2.mp4",
+        "label": "2",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis video is a SnapChat video on one of many categories. The engagement rate defined for each such video is based on the average watch time and how long viewers stay engaged before skipping. The higher the average watch time and lower the skip rate, the more engaged the video is. The final prediction label is either 0 (not engaged), 1 (neutral), or 2 (engaged). Please predict one of the three labels for this video, based on its contents only."
+            },
+            {
+                "from": "gpt",
+                "value": "The engagement label of the video is 2."
+            }
+        ]
+    },
+    {
+        "video": "test/6d6d31c17bf8d984785b323b35a2f2dd.mp4",
+        "label": "1",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis video is a SnapChat video on one of many categories. The engagement rate defined for each such video is based on the average watch time and how long viewers stay engaged before skipping. The higher the average watch time and lower the skip rate, the more engaged the video is. The final prediction label is either 0 (not engaged), 1 (neutral), or 2 (engaged). Please predict one of the three labels for this video, based on its contents only."
+            },
+            {
+                "from": "gpt",
+                "value": "The engagement label of the video is 1."
+            }
+        ]
+    },
+    {
+        "video": "test/1acfbef647f1db5834d4c1676b12b302.mp4",
+        "label": "1",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis video is a SnapChat video on one of many categories. The engagement rate defined for each such video is based on the average watch time and how long viewers stay engaged before skipping. The higher the average watch time and lower the skip rate, the more engaged the video is. The final prediction label is either 0 (not engaged), 1 (neutral), or 2 (engaged). Please predict one of the three labels for this video, based on its contents only."
+            },
+            {
+                "from": "gpt",
+                "value": "The engagement label of the video is 1."
+            }
+        ]
+    },
+    {
+        "video": "test/63a13b43e8a37033c94a784faae8a838.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis video is a SnapChat video on one of many categories. The engagement rate defined for each such video is based on the average watch time and how long viewers stay engaged before skipping. The higher the average watch time and lower the skip rate, the more engaged the video is. The final prediction label is either 0 (not engaged), 1 (neutral), or 2 (engaged). Please predict one of the three labels for this video, based on its contents only."
+            },
+            {
+                "from": "gpt",
+                "value": "The engagement label of the video is 0."
+            }
+        ]
+    },
+    {
+        "video": "test/7bb6d89835ff3f702bf3a04a92ce063d.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis video is a SnapChat video on one of many categories. The engagement rate defined for each such video is based on the average watch time and how long viewers stay engaged before skipping. The higher the average watch time and lower the skip rate, the more engaged the video is. The final prediction label is either 0 (not engaged), 1 (neutral), or 2 (engaged). Please predict one of the three labels for this video, based on its contents only."
+            },
+            {
+                "from": "gpt",
+                "value": "The engagement label of the video is 0."
+            }
+        ]
+    },
+    {
+        "video": "test/0476274b38337e0b56b6c0da026679e4.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis video is a SnapChat video on one of many categories. The engagement rate defined for each such video is based on the average watch time and how long viewers stay engaged before skipping. The higher the average watch time and lower the skip rate, the more engaged the video is. The final prediction label is either 0 (not engaged), 1 (neutral), or 2 (engaged). Please predict one of the three labels for this video, based on its contents only."
+            },
+            {
+                "from": "gpt",
+                "value": "The engagement label of the video is 0."
+            }
+        ]
+    },
+    {
+        "video": "test/5cd8c56af238034dc1bfb983b1decfc1.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis video is a SnapChat video on one of many categories. The engagement rate defined for each such video is based on the average watch time and how long viewers stay engaged before skipping. The higher the average watch time and lower the skip rate, the more engaged the video is. The final prediction label is either 0 (not engaged), 1 (neutral), or 2 (engaged). Please predict one of the three labels for this video, based on its contents only."
+            },
+            {
+                "from": "gpt",
+                "value": "The engagement label of the video is 0."
+            }
+        ]
+    },
+    {
+        "video": "test/d1b824efbb0699b8047e933f8cfcde60.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis video is a SnapChat video on one of many categories. The engagement rate defined for each such video is based on the average watch time and how long viewers stay engaged before skipping. The higher the average watch time and lower the skip rate, the more engaged the video is. The final prediction label is either 0 (not engaged), 1 (neutral), or 2 (engaged). Please predict one of the three labels for this video, based on its contents only."
+            },
+            {
+                "from": "gpt",
+                "value": "The engagement label of the video is 0."
+            }
+        ]
+    }
+]

@@ -2,3 +2,8 @@ train/
 test/
 logs/
 scripts/__pycache__/
+data_mini/
+data_tiny/
+data/train/
+data/test/
+data/dataset-metadata.json
