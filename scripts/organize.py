@@ -11,12 +11,15 @@ if __name__ == "__main__":
     parser.add_argument('--raw_train', type=str, required=True, help="Path to the raw training file")
     parser.add_argument('--raw_test', type=str, required=True, help="Path to the raw testing file")
     parser.add_argument('--train_json', type=str, required=True, help="Path to the training json file")
+    parser.add_argument('--val_json', type=str, required=True, help="Path to the validation json file")
     parser.add_argument('--test_json', type=str, required=True, help="Path to the testing json file")
     parser.add_argument('--train_dir', type=str, required=False, default="train", help="Path to the train directory (of clips)")
     parser.add_argument('--test_dir', type=str, required=False, default="test", help="Path to the test directory (of clips)")
+    parser.add_argument('--output_dir', type=str, required=False, default=None, help="Path to the output directory of sampled dataset")
     parser.add_argument('--min_duration', type=int, required=False, default=DEFAULT_MIN_DURATION, help="Minimum duration of clips to consider")
     parser.add_argument('--max_duration', type=int, required=False, default=DEFAULT_MAX_DURATION, help="Maximum duration of clips to consider")
     parser.add_argument('--max_samples_train', type=int, required=False, default=None, help="Maximum number of training samples to consider")
+    parser.add_argument('--max_samples_val', type=int, required=False, default=None, help="Maximum number of validation samples to consider")
     parser.add_argument('--max_samples_test', type=int, required=False, default=None, help="Maximum number of testing samples to consider")
     parser.add_argument('--quartile1', type=int, required=False, default=DEFAULT_QUARTILE1, help="First quartile for labeling")
     parser.add_argument('--quartile3', type=int, required=False, default=DEFAULT_QUARTILE3, help="Third quartile for labeling")
@@ -27,12 +30,15 @@ if __name__ == "__main__":
         raw_file = args.raw_train, 
         data_dir = args.train_dir, 
         output_json_path = args.train_json, 
+        output_val_json_path = args.val_json,
         quartile1 = args.quartile1, 
         quartile3 = args.quartile3, 
-        prefix="train",
+        prefix="train", # subfolder name in data
         min_duration = args.min_duration,
         max_duration = args.max_duration,
-        max_samples = args.max_samples_train
+        max_samples_train = args.max_samples_train,
+        max_samples_val = args.max_samples_val,
+        output_dir = args.output_dir
     )
     prepare_json_data(
         raw_file = args.raw_test, 
@@ -43,5 +49,6 @@ if __name__ == "__main__":
         prefix="test",
         min_duration = args.min_duration,
         max_duration = args.max_duration,
-        max_samples = args.max_samples_test
+        max_samples_test = args.max_samples_test,
+        output_dir = args.output_dir
     )
