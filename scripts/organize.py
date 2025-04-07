@@ -33,7 +33,7 @@ if __name__ == "__main__":
         output_val_json_path = args.val_json,
         quartile1 = args.quartile1, 
         quartile3 = args.quartile3, 
-        prefix="train", # subfolder name in data
+        prefix="train",
         min_duration = args.min_duration,
         max_duration = args.max_duration,
         max_samples_train = args.max_samples_train,

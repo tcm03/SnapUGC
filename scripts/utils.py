@@ -5,6 +5,7 @@ import json
 from constants import *
 import random
 import shutil
+from typing import Tuple
 
 def get_input_prompt() -> str:
     return "<image>\nThis video is a SnapChat video on one of many categories. The engagement rate defined for each such video is based on the average watch time and how long viewers stay engaged before skipping. The higher the average watch time and lower the skip rate, the more engaged the video is. The final prediction label is either 0 (not engaged), 1 (neutral), or 2 (engaged). Please predict one of the three labels for this video, based on its contents only."
@@ -12,11 +13,11 @@ def get_input_prompt() -> str:
 def get_output_response(label: str) -> str:
     # return f"The engagement label of the video is {label}."
     if label == '0':
-        return "The engagement level is 0 (not engaged)"
+        return "The engagement level is not engaged."
     elif label == '1':
-        return "The engagement level is 1 (neutral)"
+        return "The engagement level is neutral."
     elif label == '2':
-        return "The engagement level is 2 (engaged)"
+        return "The engagement level is engaged."
     assert False, "Invalid label"
     return "N/A"
 
@@ -65,7 +66,14 @@ def prepare_json_data(
     with open(raw_file, "r", encoding="utf-8") as file:
         reader = csv.reader(file, delimiter="\t")
         next(reader)  # Skip header row
-        data_files = os.listdir(data_dir)
+        data_filepaths = []
+        data_filenames = []
+        for root, dirs, files in os.walk(data_dir):
+            root_tail = os.path.basename(root.rstrip("/"))
+            for file in files:
+                if file.endswith(".mp4"):
+                    data_filepaths.append(os.path.join(root_tail, file))
+                    data_filenames.append(file)
         num_samples = 0
         for row in reader:
             if row[1] == '' or row[2] == '' or row[3] == '':
@@ -76,10 +84,16 @@ def prepare_json_data(
                 continue
             vid = str(row[0])
             duration = float(row[1])
-            if f"{vid}.mp4" in data_files and min_duration <= int(duration) <= max_duration:
+            if f"{vid}.mp4" in data_filenames and min_duration <= int(duration) <= max_duration:
                 nawp = int(row[3])
                 label = get_label(nawp, quartile1, quartile3)
-                full_path = f"{prefix}/{vid}.mp4"
+                full_path = os.path.join(
+                    prefix,
+                    data_filepaths[data_filenames.index(f"{vid}.mp4")]
+                )
+                # print(f"prefix: {prefix}")
+                # print(f'tail: {data_filepaths[data_filenames.index(f"{vid}.mp4")]}')
+                # print(f"Full path: {full_path}")
                 data_json.append({
                     "video": full_path,
                     "label": label,
@@ -96,6 +110,7 @@ def prepare_json_data(
                 })
                 num_samples += 1
         print(f"Number of {prefix} samples prepared: {num_samples}")
+    
     data_json_label = {
         "0": [],
         "1": [],
@@ -107,12 +122,33 @@ def prepare_json_data(
 
     max_samples_test = kwargs.get("max_samples_test", None)
     if max_samples_test is not None:
-        # test split
-        max_samples_test = min(max_samples_test, len(data_json))
+        # TEST SPLIT
+
+        # If no sub-sampling at all
+        if max_samples_test >= len(data_json):
+            print(f"Number of test samples selected: {len(data_json)}")
+            with open(output_json_path, "w", encoding="utf-8") as file:
+                json.dump(data_json, file, indent=4)
+            print(f"Done dumping to {output_json_path}")
+
+            # Just create json metadata, don't create new copy
+            # if output_dir is not None:
+            #     dest_dir = os.path.join(output_dir, "test")
+            #     print(f"copying sampled data to {dest_dir}...")
+            #     os.makedirs(dest_dir, exist_ok=True)
+            #     for item in data_json:
+            #         file_name = get_file_name(item["video"])
+            #         file_path = os.path.join(data_dir, file_name)
+            #         shutil.copy(file_path, dest_dir)
+            #     print(f"Done copying sampled data to {dest_dir}")
+            return
+
+        # If sub-sampling is needed
         sample_test_json = []
         split_sizes = [max_samples_test // 3, max_samples_test // 3, max_samples_test - 2 * max_samples_test // 3] # equal split
         for i, label in enumerate(["0", "1", "2"]):
-            sub_sample = random.sample(data_json_label[label], split_sizes[i])
+            sub_sample = random.sample(data_json_label[label], min(split_sizes[i], len(data_json_label[label])))
+            print(f"Number of test samples selected for label {label}: {len(sub_sample)}")
             sample_test_json = sample_test_json + sub_sample
 
         print(f"Number of test samples selected: {len(sample_test_json)}")
@@ -137,9 +173,30 @@ def prepare_json_data(
     max_samples_train = kwargs.get("max_samples_train", None)
     max_samples_val = kwargs.get("max_samples_val", None)
     if max_samples_train is not None and max_samples_val is not None:
-        # train + val split
-        if max_samples_train + max_samples_val > len(data_json):
-            assert False, "Train + val split size is greater than original dataset"
+        print(f"TRAIN VAL SPLIT")
+
+        # if no sub-sampling at all
+        if max_samples_train + max_samples_val >= len(data_json):
+            
+            samples_train = random.sample(data_json, min(max_samples_train, len(data_json)))
+            print(f"Number of train samples selected: {len(samples_train)}")
+            with open(output_json_path, "w", encoding="utf-8") as file:
+                json.dump(samples_train, file, indent=4)
+            samples_train_paths = [item["video"] for item in samples_train]
+            samples_val = []
+            for item in data_json:
+                if item["video"] not in samples_train_paths:
+                    samples_val.append(item)
+            print(f"Done dumping to {output_json_path}")
+            print(f"Number of val samples selected: {len(samples_val)}")
+            output_val_json_path = kwargs.get("output_val_json_path", None)
+            if output_val_json_path is not None:
+                with open(output_val_json_path, "w", encoding="utf-8") as file:
+                    json.dump(samples_val, file, indent=4)
+                print(f"Done dumping to {output_val_json_path}")
+            return
+
+        # if sub-sampling is needed
         split_train_sizes = [max_samples_train // 3, max_samples_train // 3, max_samples_train - 2 * max_samples_train // 3]
         split_val_sizes = [max_samples_val // 3, max_samples_val // 3, max_samples_val - 2 * max_samples_val // 3]
         sample_train_json = []

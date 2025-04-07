@@ -16,3 +16,8 @@ data_30s_mini/dataset-metadata.json
 data/train/
 data/test/
 data/dataset-metadata.json
+
+SnapUGC_0/
+SnapUGC_1/
+SnapUGC_2/
+SnapUGC_3/
