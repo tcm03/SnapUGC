@@ -17,7 +17,9 @@ data/train/
 data/test/
 data/dataset-metadata.json
 
-SnapUGC_0/
+SnapUGC_0/train/
+SnapUGC_0/test/
+SnapUGC_0/.cache/
 SnapUGC_1/
 SnapUGC_2/
 SnapUGC_3/

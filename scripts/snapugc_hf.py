@@ -127,7 +127,7 @@ if __name__ == "__main__":
     #     dataset_name=args.dataset_name
     # )
     
-    UPLOAD DATASET SHARDS
+    # UPLOAD DATASET SHARDS
     api = HfApi()
     for shard in range(args.num_shards):
         print(f"\nUPLOADING SHARD {shard}...\n")

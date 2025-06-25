@@ -1,0 +1,226 @@
+[
+    {
+        "video": "train/train_21/dacc53c0b396a913987128a11958e5f9.mp4",
+        "label": "2",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "[label] <image>\n"
+            },
+            {
+                "from": "gpt",
+                "value": "engaged"
+            }
+        ]
+    },
+    {
+        "video": "train/train_21/dacc53c0b396a913987128a11958e5f9.mp4",
+        "label": "2",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "[rationale] <image>\n"
+            },
+            {
+                "from": "gpt",
+                "value": "The video kicks off with a close-up of stylish beige sneakers, complete with white soles, resting on a textured gray surface that looks like cozy carpet or a soft mat. With the background intentionally blurred, these sneakers are clearly the star of the show. Adding to the fun, a text overlay pops up, playfully recounting a humorous mishap involving a bathtub and a flooded apartment, complete with a laughing emoji that invites a chuckle. As the video unfolds, the focus shifts to that same textured gray surface, now devoid of the sneakers, but the witty text overlay continues, keeping the light-hearted vibe alive and encouraging viewers to stay engaged with the story. The combination of visuals and clever commentary makes this video highly engaging!"
+            }
+        ]
+    },
+    {
+        "video": "train/train_16/4aac2790511b3fa304e71f3e24876080.mp4",
+        "label": "1",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "[label] <image>\n"
+            },
+            {
+                "from": "gpt",
+                "value": "neutral"
+            }
+        ]
+    },
+    {
+        "video": "train/train_16/4aac2790511b3fa304e71f3e24876080.mp4",
+        "label": "1",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "[rationale] <image>\n"
+            },
+            {
+                "from": "gpt",
+                "value": "The video features a series of moments captured on a rainy day within an urban landscape. It begins with a person standing under a charming pink umbrella on a wet sidewalk, dressed in a pink coat and blue jeans, and holding a cup in their left hand. The backdrop showcases a rainy street scene complete with parked cars and a storefront adorned with a bright yellow sign, hinting at a commercial district. As the video unfolds, the individual under the umbrella slightly angles their body to the right, allowing a glimpse of their outfit, which includes a white top and a matching pink hat. The environment remains constant with the initial frame, suggesting a continuous moment in time, while maintaining an overall steady visual narrative. Thus, the video is neutral."
+            }
+        ]
+    },
+    {
+        "video": "train/train_8/b7d5ba11a489790e59293e50dcbaa9e6.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "[label] <image>\n"
+            },
+            {
+                "from": "gpt",
+                "value": "not engaged"
+            }
+        ]
+    },
+    {
+        "video": "train/train_8/b7d5ba11a489790e59293e50dcbaa9e6.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "[rationale] <image>\n"
+            },
+            {
+                "from": "gpt",
+                "value": "The video presents a sequence of moments in a modern room, featuring a person in a white robe who appears to be going through a routine. It starts with the individual applying makeup with a brush, primarily focusing on the area around their nose. As the footage continues, there's a noticeable shift in activity as they switch from makeup application to casually holding a green cup, signaling a change in focus. The expressions and gestures of the individual show minimal variation, with little energy or interaction with the camera throughout the video. There are brief moments that could be interpreted as laughter, but they lack the dynamism that might engage the viewer more fully. The attire and decor, including a blue chair and black accents, remain constant, contributing to an overall static feel. Thus, the video is not engaged."
+            }
+        ]
+    },
+    {
+        "video": "train/train_24/495a9b31405b2b2df6fb3a11de8cd91a.mp4",
+        "label": "2",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "[label] <image>\n"
+            },
+            {
+                "from": "gpt",
+                "value": "engaged"
+            }
+        ]
+    },
+    {
+        "video": "train/train_24/495a9b31405b2b2df6fb3a11de8cd91a.mp4",
+        "label": "2",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "[rationale] <image>\n"
+            },
+            {
+                "from": "gpt",
+                "value": "The video opens with a close-up of a hand confidently grasping a black smartphone, its screen off and set against a rich, textured carpet that adds depth to the indoor scene. As the hand shifts positions, the thumb clicks a button, bringing the device to life with a vibrant green screen adorned with a logo. This deliberate movement hints at a moment of interaction, as if the viewer is invited to join in on a journey of navigation or selection. As the video unfolds, the hand continues to showcase the smartphone, holding it upright to emphasize the eye-catching green screen and logo, creating an engaging visual experience that draws the audience in. The attention to detail and the inclusion of dynamic movements keep viewers captivated, reinforcing the sense of high engagement throughout the video."
+            }
+        ]
+    },
+    {
+        "video": "train/train_13/da585b1dd665104d4e6b39ed4b0fbc85.mp4",
+        "label": "1",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "[label] <image>\n"
+            },
+            {
+                "from": "gpt",
+                "value": "neutral"
+            }
+        ]
+    },
+    {
+        "video": "train/train_13/da585b1dd665104d4e6b39ed4b0fbc85.mp4",
+        "label": "1",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "[rationale] <image>\n"
+            },
+            {
+                "from": "gpt",
+                "value": "The video presents a bright lime green Jeep Wrangler parked in a suburban area, showcasing its large black tires and raised suspension that hint at its off-road prowess. The vehicle features a roof rack, a robust front bumper with a winch, and a sturdy roll cage\u2014all built for adventurous outdoor excursions. It's stationed in front of a charming two-story house with a brick facade, surrounded by other vehicles and a tree-lined street that paints a picturesque neighborhood scene under a clear, sunny sky. As the video continues, the camera angle shifts to offer a closer perspective, maintaining the overall neutral tone of exploration and observation. Thus, the video remains neutral."
+            }
+        ]
+    },
+    {
+        "video": "train/train_7/8787be2d403e980fd2737ac42e6f25b7.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "[label] <image>\n"
+            },
+            {
+                "from": "gpt",
+                "value": "not engaged"
+            }
+        ]
+    },
+    {
+        "video": "train/train_7/8787be2d403e980fd2737ac42e6f25b7.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "[rationale] <image>\n"
+            },
+            {
+                "from": "gpt",
+                "value": "The video showcases a series of moments featuring birds on a suburban street, starting with a pair of birds\u2014one grounded and the other airborne\u2014set against a backdrop of residential homes, a well-kept lawn, and a tree. An overlay text humorously notes an office incident involving birds, albeit clarifying that these particular birds are not real. As the video rolls on, the flying bird eventually lands on the street while the stationary one shifts slightly, hinting at some slight action. The camera later zooms in on the landed bird, offering a closer look against the softly blurred scenery of the street and the grassy area. Despite the charming setting, the sequence lacks dynamic movement or engaging narratives, keeping it on a slow, uneventful track. Thus, the video is not engaged."
+            }
+        ]
+    },
+    {
+        "video": "train/train_26/ddfe8985769a7b40e9d7425fbc7cc2dd.mp4",
+        "label": "2",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "[label] <image>\n"
+            },
+            {
+                "from": "gpt",
+                "value": "engaged"
+            }
+        ]
+    },
+    {
+        "video": "train/train_26/ddfe8985769a7b40e9d7425fbc7cc2dd.mp4",
+        "label": "2",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "[rationale] <image>\n"
+            },
+            {
+                "from": "gpt",
+                "value": "The video begins with an individual showcasing their long, vibrant purple hair, initially dressed in a stylish white top with a black strap, all set against a bright, inviting room featuring a window, a lively potted plant, and a clean white wall. As the story unfolds, their outfit transitions to a trendy red cap adorned with a striking graphic, paired with another chic white garment that also features a black strap\u2014keeping the look fresh and interesting. The person\u2019s hands become a focal point as they confidently wield a pair of striking red-handled scissors, expertly cutting through a piece of crisp white paper or fabric. Throughout this engaging journey, the camera remains at a steady, eye-level angle, capturing the dynamic changes and creativity at play. The scene is filled with energy and visual appeal, showcasing the individual\u2019s unique style and artistry, making the viewer feel closely connected to the unfolding action. Thus, the video is highly engaged."
+            }
+        ]
+    },
+    {
+        "video": "train/train_4/8f51702a8330a8d183cf5def2604001e.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "[label] <image>\n"
+            },
+            {
+                "from": "gpt",
+                "value": "not engaged"
+            }
+        ]
+    },
+    {
+        "video": "train/train_4/8f51702a8330a8d183cf5def2604001e.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "[rationale] <image>\n"
+            },
+            {
+                "from": "gpt",
+                "value": "The video opens with a close-up shot of a toilet paper roll mounted on a wall, where a person's hands are seen pulling a piece of paper. The scene transitions to feature the hands holding a single piece of toilet paper, set against a simple white wall illuminated by the presence of a floral emoji, suggesting an attempt at lightheartedness. The hands proceed to fold the toilet paper into a square shape; however, the actions are slow and lack dynamic variation. The camera angle shifts back and forth to show the hands holding the folded paper against the wall. The sequence is repeated as the person pulls more paper from the roll, maintaining a steady and unchanging pace throughout, with the general ambiance remaining flat and unvaried. Thus, the video is not engaged."
+            }
+        ]
+    }
+]

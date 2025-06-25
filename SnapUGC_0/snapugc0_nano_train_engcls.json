@@ -1,0 +1,324 @@
+[
+    {
+        "video": "train/train_21/dacc53c0b396a913987128a11958e5f9.mp4",
+        "label": "2",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDescribe this video in detail with predicted engagement level to viewers.\n<cls>"
+            },
+            {
+                "from": "gpt",
+                "value": "The video kicks off with a close-up of stylish beige sneakers, complete with white soles, resting on a textured gray surface that looks like cozy carpet or a soft mat. With the background intentionally blurred, these sneakers are clearly the star of the show. Adding to the fun, a text overlay pops up, playfully recounting a humorous mishap involving a bathtub and a flooded apartment, complete with a laughing emoji that invites a chuckle. As the video unfolds, the focus shifts to that same textured gray surface, now devoid of the sneakers, but the witty text overlay continues, keeping the light-hearted vibe alive and encouraging viewers to stay engaged with the story. The combination of visuals and clever commentary makes this video highly engaging!"
+            }
+        ]
+    },
+    {
+        "video": "train/train_16/4aac2790511b3fa304e71f3e24876080.mp4",
+        "label": "1",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDescribe this video in detail with predicted engagement level to viewers.\n<cls>"
+            },
+            {
+                "from": "gpt",
+                "value": "The video features a series of moments captured on a rainy day within an urban landscape. It begins with a person standing under a charming pink umbrella on a wet sidewalk, dressed in a pink coat and blue jeans, and holding a cup in their left hand. The backdrop showcases a rainy street scene complete with parked cars and a storefront adorned with a bright yellow sign, hinting at a commercial district. As the video unfolds, the individual under the umbrella slightly angles their body to the right, allowing a glimpse of their outfit, which includes a white top and a matching pink hat. The environment remains constant with the initial frame, suggesting a continuous moment in time, while maintaining an overall steady visual narrative. Thus, the video is neutral."
+            }
+        ]
+    },
+    {
+        "video": "train/train_8/b7d5ba11a489790e59293e50dcbaa9e6.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDescribe this video in detail with predicted engagement level to viewers.\n<cls>"
+            },
+            {
+                "from": "gpt",
+                "value": "The video presents a sequence of moments in a modern room, featuring a person in a white robe who appears to be going through a routine. It starts with the individual applying makeup with a brush, primarily focusing on the area around their nose. As the footage continues, there's a noticeable shift in activity as they switch from makeup application to casually holding a green cup, signaling a change in focus. The expressions and gestures of the individual show minimal variation, with little energy or interaction with the camera throughout the video. There are brief moments that could be interpreted as laughter, but they lack the dynamism that might engage the viewer more fully. The attire and decor, including a blue chair and black accents, remain constant, contributing to an overall static feel. Thus, the video is not engaged."
+            }
+        ]
+    },
+    {
+        "video": "train/train_24/495a9b31405b2b2df6fb3a11de8cd91a.mp4",
+        "label": "2",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDescribe this video in detail with predicted engagement level to viewers.\n<cls>"
+            },
+            {
+                "from": "gpt",
+                "value": "The video opens with a close-up of a hand confidently grasping a black smartphone, its screen off and set against a rich, textured carpet that adds depth to the indoor scene. As the hand shifts positions, the thumb clicks a button, bringing the device to life with a vibrant green screen adorned with a logo. This deliberate movement hints at a moment of interaction, as if the viewer is invited to join in on a journey of navigation or selection. As the video unfolds, the hand continues to showcase the smartphone, holding it upright to emphasize the eye-catching green screen and logo, creating an engaging visual experience that draws the audience in. The attention to detail and the inclusion of dynamic movements keep viewers captivated, reinforcing the sense of high engagement throughout the video."
+            }
+        ]
+    },
+    {
+        "video": "train/train_13/da585b1dd665104d4e6b39ed4b0fbc85.mp4",
+        "label": "1",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDescribe this video in detail with predicted engagement level to viewers.\n<cls>"
+            },
+            {
+                "from": "gpt",
+                "value": "The video presents a bright lime green Jeep Wrangler parked in a suburban area, showcasing its large black tires and raised suspension that hint at its off-road prowess. The vehicle features a roof rack, a robust front bumper with a winch, and a sturdy roll cage\u2014all built for adventurous outdoor excursions. It's stationed in front of a charming two-story house with a brick facade, surrounded by other vehicles and a tree-lined street that paints a picturesque neighborhood scene under a clear, sunny sky. As the video continues, the camera angle shifts to offer a closer perspective, maintaining the overall neutral tone of exploration and observation. Thus, the video remains neutral."
+            }
+        ]
+    },
+    {
+        "video": "train/train_7/8787be2d403e980fd2737ac42e6f25b7.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDescribe this video in detail with predicted engagement level to viewers.\n<cls>"
+            },
+            {
+                "from": "gpt",
+                "value": "The video showcases a series of moments featuring birds on a suburban street, starting with a pair of birds\u2014one grounded and the other airborne\u2014set against a backdrop of residential homes, a well-kept lawn, and a tree. An overlay text humorously notes an office incident involving birds, albeit clarifying that these particular birds are not real. As the video rolls on, the flying bird eventually lands on the street while the stationary one shifts slightly, hinting at some slight action. The camera later zooms in on the landed bird, offering a closer look against the softly blurred scenery of the street and the grassy area. Despite the charming setting, the sequence lacks dynamic movement or engaging narratives, keeping it on a slow, uneventful track. Thus, the video is not engaged."
+            }
+        ]
+    },
+    {
+        "video": "train/train_26/ddfe8985769a7b40e9d7425fbc7cc2dd.mp4",
+        "label": "2",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDescribe this video in detail with predicted engagement level to viewers.\n<cls>"
+            },
+            {
+                "from": "gpt",
+                "value": "The video begins with an individual showcasing their long, vibrant purple hair, initially dressed in a stylish white top with a black strap, all set against a bright, inviting room featuring a window, a lively potted plant, and a clean white wall. As the story unfolds, their outfit transitions to a trendy red cap adorned with a striking graphic, paired with another chic white garment that also features a black strap\u2014keeping the look fresh and interesting. The person\u2019s hands become a focal point as they confidently wield a pair of striking red-handled scissors, expertly cutting through a piece of crisp white paper or fabric. Throughout this engaging journey, the camera remains at a steady, eye-level angle, capturing the dynamic changes and creativity at play. The scene is filled with energy and visual appeal, showcasing the individual\u2019s unique style and artistry, making the viewer feel closely connected to the unfolding action. Thus, the video is highly engaged."
+            }
+        ]
+    },
+    {
+        "video": "train/train_4/8f51702a8330a8d183cf5def2604001e.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDescribe this video in detail with predicted engagement level to viewers.\n<cls>"
+            },
+            {
+                "from": "gpt",
+                "value": "The video opens with a close-up shot of a toilet paper roll mounted on a wall, where a person's hands are seen pulling a piece of paper. The scene transitions to feature the hands holding a single piece of toilet paper, set against a simple white wall illuminated by the presence of a floral emoji, suggesting an attempt at lightheartedness. The hands proceed to fold the toilet paper into a square shape; however, the actions are slow and lack dynamic variation. The camera angle shifts back and forth to show the hands holding the folded paper against the wall. The sequence is repeated as the person pulls more paper from the roll, maintaining a steady and unchanging pace throughout, with the general ambiance remaining flat and unvaried. Thus, the video is not engaged."
+            }
+        ]
+    },
+    {
+        "video": "train/train_0/236fa1f54ae414f2b98b71d7861e604e.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDescribe this video in detail with predicted engagement level to viewers.\n<cls>"
+            },
+            {
+                "from": "gpt",
+                "value": "The video presents a tranquil beach setting, beginning with a simple view of a sandy shoreline beneath a bright sky, where the sun casts a glaring light. As the footage unfolds, the camera captures an overview of the beach, showing a mix of people basking in the sun and enjoying the sea\u2014some standing, others relaxing in beach chairs. The scene is framed by a stone wall, with a distant building featuring a yellow facade. The sun shifts in position, subtly hinting at the passage of time, while the camera offers a few different perspectives, including a close-up of the sand and a brief glimpse of the building and stone wall. Overall, the pacing and presentation lack dynamic changes, leaving the viewing experience feeling somewhat routine and uneventful. Thus, the video is not engaged."
+            }
+        ]
+    },
+    {
+        "video": "train/train_21/cb57ae05168f4c714cb76ae911ab1c25.mp4",
+        "label": "2",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDescribe this video in detail with predicted engagement level to viewers.\n<cls>"
+            },
+            {
+                "from": "gpt",
+                "value": "The video showcases an individual with long, wavy hair, elegantly dressed in a dark top, set against a consistently dark backdrop that enhances their presence. With a thoughtful gesture, the person's hand gracefully rises to their head, signaling a moment of deep contemplation or introspection. The warm, yellowish lighting bathes the subject in a soft glow, creating an inviting and intimate ambiance. Throughout the duration of the video, the static nature of the scene fosters a meditative atmosphere, allowing viewers to fully immerse themselves in the subject's expression and mood. The combination of steady positioning, harmonious lighting, and the thoughtful posture invites a profound connection, reflecting a highly engaged viewing experience."
+            }
+        ]
+    },
+    {
+        "video": "train/train_21/9a9167b180143306a314d76606b91203.mp4",
+        "label": "2",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDescribe this video in detail with predicted engagement level to viewers.\n<cls>"
+            },
+            {
+                "from": "gpt",
+                "value": "The video immerses viewers in the bustling environment of an industrial warehouse, starting with an eye-catching shot of a vibrant red forklift gliding gracefully across the frame, exemplifying its operational prowess. The spacious warehouse is lined with substantial rolls of various materials, some expertly wrapped in vivid green plastic, while a bold yellow line on the floor delineates a designated path for the forklifts, creating a sense of order amidst the activity. As the video unfolds, the forklift continues its journey, and the camera dynamically tracks its movement, revealing more of the intricate warehouse layout. Viewers catch a glimpse of an individual in a blue shirt and jeans intently observing or assisting in the forklift's operation, further enriching the narrative. The scene wraps up with a promising pivot to a large roll, heightening anticipation for what comes next, establishing a deeply engaging experience for viewers."
+            }
+        ]
+    },
+    {
+        "video": "train/train_17/6e71ffefee0c21daac4eeec97b78ec25.mp4",
+        "label": "1",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDescribe this video in detail with predicted engagement level to viewers.\n<cls>"
+            },
+            {
+                "from": "gpt",
+                "value": "The video unfolds in a cozy bathroom setting, starting with a person in a stylish black top standing in front of the mirror, focused on applying makeup. At first, they face away from the camera, engrossed in their routine. As the video goes on, they turn to engage with the audience, revealing their long, light-colored hair and the intricate details of their outfit while continuing with their makeup application. The bathroom's clean aesthetic, with white tiles and a sleek glass shower enclosure, provides a steady backdrop. Amid this routine, a cat makes a charming entrance, initially lingering in the background before moving closer to the person, adding a playful touch to the scene. Thus, the video presents a neutral level of engagement."
+            }
+        ]
+    },
+    {
+        "video": "train/train_9/f8bddb8a5763eb0fe894233de0106194.mp4",
+        "label": "1",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDescribe this video in detail with predicted engagement level to viewers.\n<cls>"
+            },
+            {
+                "from": "gpt",
+                "value": "The video opens in a serene outdoor setting, perhaps by a river or stream, surrounded by rugged rocks and vibrant greenery. Initially, two individuals are positioned on a rocky outcrop; one is shirtless and the other is in a black tank top, both seemingly in a moment of stillness or reflection within this peaceful environment. \n\nAs the video unfolds, the atmosphere shifts as the shirtless individual takes the initiative, leaping into the water with a dynamic jump, captured mid-air with a sense of motion. Meanwhile, the other individual remains on the rocky ledge, observing the action unfold. The transition from tranquility to movement adds an element of interest, yet the pace remains moderate, maintaining a neutral engagement throughout the video. Thus, the presentation retains a steady rhythm, balancing moments of calm with brief bursts of energy."
+            }
+        ]
+    },
+    {
+        "video": "train/train_16/0aa7e6cceb1a35e590025f846ee3b2e7.mp4",
+        "label": "1",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDescribe this video in detail with predicted engagement level to viewers.\n<cls>"
+            },
+            {
+                "from": "gpt",
+                "value": "The video opens with a detailed close-up of a stainless steel kitchen sink, showcasing its sleek and polished surface alongside a modern faucet fitted with a pull-down spray head, and a blue decorative vase with a contrasting white interior adorning the countertop. A hand, gripping a teal-colored sponge, reaches toward the faucet, signaling the commencement of a cleaning task. As the scenes unfold, this hand is captured in movement, bringing the sponge closer to the faucet and indicating the initial stages of a thorough cleaning routine. The video then transitions to show the hand now holding a small, clear plastic bottle that likely contains soap or cleaning solution, while the sponge momentarily disappears from view, hinting at a shift in focus. The background and overall presentation maintain a consistent and homely atmosphere throughout. Thus, the video is neutral."
+            }
+        ]
+    },
+    {
+        "video": "train/train_8/9094e8bbf26b369bba89baf456045527.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDescribe this video in detail with predicted engagement level to viewers.\n<cls>"
+            },
+            {
+                "from": "gpt",
+                "value": "The video opens with a person in a casual outdoor setting, appearing to engage in some form of movement\u2014potentially dancing\u2014amid a blurred backdrop that hints at a social gathering. Dressed in a light-colored top and dark shorts, the scene is bathed in natural sunlight, indicating it\u2019s daytime. As the video unfolds, the individual shifts through various poses, occasionally raising their arms, yet the overall movements lack energy and do not convey much excitement. The background remains steady, showcasing a large screen and a draped object, with persistent lighting conditions that suggest a routine rather than a dynamic event. Thus, the video is not engaged."
+            }
+        ]
+    },
+    {
+        "video": "train/train_26/f9cd3b77e127a4f50385635e972aa53f.mp4",
+        "label": "2",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDescribe this video in detail with predicted engagement level to viewers.\n<cls>"
+            },
+            {
+                "from": "gpt",
+                "value": "The video opens with a vibrant view of a residential street basking in daylight, showcasing a row of parked cars on the left and a lush grassy area with trees on the right\u2014setting the stage for a well-loved neighborhood. The scene remains static at first, begging for exploration. However, as the video progresses, the camera smoothly glides forward, unveiling even more of the charming street and its inviting environment. A quaint brick building comes into view, with its white-framed window inviting curiosity, alongside a parked car featuring a distinctive yellow license plate. The continuous, steady camera movement enhances the sense of discovery, allowing viewers to take in every detail of the surroundings as they unfold, all the while maintaining a cohesive visual theme. By continuously revealing familiar yet comforting aspects of the neighborhood, the video captures attention and evokes a sense of connection. Thus, the video is highly engaged."
+            }
+        ]
+    },
+    {
+        "video": "train/train_23/3f051f1210aa5d66d93e1903e4668d01.mp4",
+        "label": "2",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDescribe this video in detail with predicted engagement level to viewers.\n<cls>"
+            },
+            {
+                "from": "gpt",
+                "value": "The video opens with a captivating view of a cluttered room brimming with personality\u2014a purple suitcase, a black backpack, and a crumpled white plastic bag all suggest a narrative of a life in motion. The floor, scattered with a colorful mix of clothing and various items, creates a vibrant sense of chaos, while the walls adorned with posters reveal the character's interests and experiences, enhancing this lived-in atmosphere. Shot from a low angle that draws the viewer into the scene, a text overlay cleverly conveys the sentiment of feeling \"fined,\" adding an intriguing layer to the visual storytelling.\n\nAs the video unfolds, the camera smoothly transitions to showcase different sections of the room, capturing the inviting sight of a bed dressed with a crisp white comforter and a cozy brown blanket, inviting viewers to further explore the space. This dynamic approach keeps the momentum spirited and engaging, encouraging viewers to connect with the scene\u2019s narrative. Thus, the video is highly engaged."
+            }
+        ]
+    },
+    {
+        "video": "train/train_16/85980c84e9dc59c99e2437359185a64d.mp4",
+        "label": "1",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDescribe this video in detail with predicted engagement level to viewers.\n<cls>"
+            },
+            {
+                "from": "gpt",
+                "value": "The video opens with a close-up of a person's lower body dressed in light-colored shorts and dark shoes, set within a gym environment brimming with various exercise machines. A thought-provoking sign reading \"Soulmates are not lovers\" peeks into view in the background, hinting at a motivational theme. As the video unfolds, the camera angle broadens, showcasing more of the gym space, including a striking purple exercise machine and the word \"Soulmates,\" partially hidden by the individual's leg. The person stands with their back to the camera, deliberately positioned with their gaze directed towards the workout equipment, highlighting a moment of anticipation for their next move. This pacing creates a neutral but engaging atmosphere in the gym setting. Thus, the video is neutral."
+            }
+        ]
+    },
+    {
+        "video": "train/train_15/ed101097aa3d71d66d7ce198cc430c34.mp4",
+        "label": "1",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDescribe this video in detail with predicted engagement level to viewers.\n<cls>"
+            },
+            {
+                "from": "gpt",
+                "value": "The video starts in an indoor gymnastics facility, showcasing a person in a black top and shorts as they prepare for a vault. Set against a backdrop filled with various gymnastics apparatuses like balance beams, uneven bars, and mats, the scene comes alive with other individuals participating in different activities. The camera captures a wide shot of the spacious gym, emphasizing its diverse equipment and active environment.\n\nAs the video progresses, the focus shifts to the individual in the black outfit as they execute a vault. Launching off a blue mat, they soar into the air, showcasing their athletic skill and control. The camera tracks their movement gracefully, highlighting the moment of flight. However, the overall energy feels steady and slightly subdued, maintaining a neutral tone throughout. Thus, the video is neutral."
+            }
+        ]
+    },
+    {
+        "video": "train/train_24/df4b1b224d6a3c8787851f6a79a8b11b.mp4",
+        "label": "2",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDescribe this video in detail with predicted engagement level to viewers.\n<cls>"
+            },
+            {
+                "from": "gpt",
+                "value": "The video captivates viewers with the transformation of a dynamic artwork unfolding on a white sketchbook page, bursting with a vivid mix of colorful splatters, swirls, and abstract designs. Initially, a hand deftly wields a green paintbrush, actively shaping and altering the vibrant patterns, inviting viewers to witness the creative process. As the video progresses, the hand's movements become more pronounced and purposeful, showcasing a deep engagement with the artwork as it points to specific areas and selects elements for further development.\n\nThis engaging visual journey sees the artwork evolving dramatically; the once abstract patterns begin to crystallize into defined shapes, including a striking central yellow form reminiscent of a flower or a sun, surrounded by mesmerizing swirling elements. Each brushstroke enriches the piece, keeping the audience enthralled by the unfolding creativity and artistic expression. Thus, the video is highly engaged."
+            }
+        ]
+    },
+    {
+        "video": "train/train_13/1b1151e38155b12260da6cc4f695102a.mp4",
+        "label": "1",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDescribe this video in detail with predicted engagement level to viewers.\n<cls>"
+            },
+            {
+                "from": "gpt",
+                "value": "The video opens with a close-up of a human hand gently holding a toy cockroach, resting on a wooden floor. Initially, the cockroach is still, its legs spread out, while the hand maintains a relaxed grip. The plain, light-colored wall in the background complements the scene, with even lighting that minimizes shadows. As the video progresses, the hand subtly rotates the toy cockroach to reveal its back, indicating a gentle adjustment or exploration. The consistent background and lighting throughout contribute to a sense of stability in the environment. The toy cockroach is then carefully placed back onto the wooden floor. Thus, the video is neutral."
+            }
+        ]
+    },
+    {
+        "video": "train/train_4/36836b74eb2fd0818af92109b4e602da.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDescribe this video in detail with predicted engagement level to viewers.\n<cls>"
+            },
+            {
+                "from": "gpt",
+                "value": "The video features a Rolex watch with a striking green and black dial, elegantly resting on a blue leather strap against a dark surface. Initially, the watch is positioned at a slight angle to the right, showcasing its hour markers and hands, yet the lack of dynamic movement keeps the viewer's attention subdued. As the video progresses, the watch is slowly rotated to the left for a clearer view of its face, but the subtle changes don't quite capture a sense of excitement or variation. The hour markers and hands slowly come into focus, but without much dramatic effect. Throughout the visual, the watch holds a constant, albeit understated presence against the unimposing backdrop, leaving little for the viewer to engage with. Thus, the video is not engaged."
+            }
+        ]
+    },
+    {
+        "video": "train/train_25/2652c261697c1f198e869ce1284745bd.mp4",
+        "label": "2",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDescribe this video in detail with predicted engagement level to viewers.\n<cls>"
+            },
+            {
+                "from": "gpt",
+                "value": "The video transports you to a vibrant outdoor setting, likely a lively backyard, where an individual dressed in a sleek black outfit showcases a series of impressive acrobatic maneuvers on a trampoline. It opens with a burst of energy as they run toward the trampoline, eyes set on the jump ahead. With an exhilarating takeoff, they execute a stunning mid-air flip, their body fully extended against the blue sky, before landing gracefully back onto the mat. After a moment of triumph, the individual stands tall, taking in their surroundings with a look that suggests a blend of pride and contemplation about their recent performance. Soon after, with excitement building, they spring back into action, running across the trampoline and hinting at more exhilarating stunts to come. This video not only captures thrilling athleticism but also invites viewers to be part of the journey. Thus, the engagement level is highly engaged."
+            }
+        ]
+    }
+]

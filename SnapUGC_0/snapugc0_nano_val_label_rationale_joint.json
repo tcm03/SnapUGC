@@ -1,0 +1,324 @@
+[
+    {
+        "video": "train/train_0/b15efd2ab30ea59a29f3b2942bb45fe9.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "[label] [rationale]\n<image>\n"
+            },
+            {
+                "from": "gpt",
+                "value": "not engaged\nThe video showcases a person in a dark, patterned suit and a white shirt engaged in a series of slow, repetitive movements with a pen. Initially, the individual holds the pen close to their face, gazing toward the camera, but there\u2019s a notable lack of dynamic expression or motion. As time goes on, the pen is moved in minor ways\u2014sometimes closer, sometimes farther, and eventually held horizontally across the face, partially obscuring it. The changes in facial expression are quite subtle, with brief moments of closing and reopening their eyes, yet overall, the emotional engagement feels limited. The backdrop remains constant throughout, offering no new elements to capture interest. Thus, the video is not engaged."
+            }
+        ]
+    },
+    {
+        "video": "train/train_0/6d5a726df223cab8eea715ab230b58ed.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "[label] [rationale]\n<image>\n"
+            },
+            {
+                "from": "gpt",
+                "value": "not engaged\nThe video presents a calm urban landscape, beginning with an overview of a quiet waterway that reflects the nearby city skyline, showcasing high-rise buildings with reflective glass windows. The text overlay \"DRAWBRIDGE MIAMI\" and a timestamp of \"7:36\" indicate the location and time, but the scene feels static. Initially, the tranquil waterway takes center stage, where the buildings' reflections settle on the surface, matched by a clear sky that suggests a sunny day but lacks dynamic movement. As the video moves along, the camera pans to the right, revealing additional parts of the urban setting, including a pedestrian bridge and a park area filled with greenery, yet the pacing remains slow and uneventful. Consequently, there\u2019s little to spark engagement. Thus, the video is not engaged."
+            }
+        ]
+    },
+    {
+        "video": "train/train_0/20b17555a00fe504f68c43fb56e0814a.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "[label] [rationale]\n<image>\n"
+            },
+            {
+                "from": "gpt",
+                "value": "not engaged\nThe video features an individual with curly hair, dressed in a striped tank top adorned with a button detail, performing some subtle gestures and movements. Initially, the person is seen with their head tilted slightly downward, eyes closed, and mouth just ajar, suggesting a vague sense of contemplation or rest. As the video unfolds, the individual makes minimal changes in expression and gesture, including an upward tilt of the head and brief moments of openness, hinting at a potential interaction but lacking significant dynamism. The person's head dips down again, accompanied by closed eyes and a nearly motionless mouth, returning to a more subdued state. The overall rhythm feels steady and unvarying, with little to engage the viewer's interest. Thus, the video is not engaged."
+            }
+        ]
+    },
+    {
+        "video": "train/train_0/d9a1d9fc8215a26c7c2f417efe83340b.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "[label] [rationale]\n<image>\n"
+            },
+            {
+                "from": "gpt",
+                "value": "not engaged\nThe video presents a series of slow interactions between a small, fluffy dog and a human in a domestic setting, likely at home. Initially, the dog is lying on its side, paying attention to something off-camera, presumably the human. The human's hand is visible, giving a gentle touch to the dog's head, hinting at an affectionate moment. As the video progresses, the dog's actions transition from stillness to slight movement, with its head turning towards the camera and its mouth slightly open, as if curious or anticipating something exciting. The human continues to engage with the dog in modest ways, like petting, but the overall energy remains subdued and slow-paced. This steady flow of interactions gives the video a not engaged feel."
+            }
+        ]
+    },
+    {
+        "video": "train/train_0/4c1edc801a8a15f61a0fa2c89c6f0ce3.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "[label] [rationale]\n<image>\n"
+            },
+            {
+                "from": "gpt",
+                "value": "not engaged\nThe video opens with an individual dressed in a black jacket featuring a logo, holding a white plate that showcases a sandwich and a side of a fried egg in a kitchen environment. The camera focuses on the plate as the person prepares to eat, but there's a lack of dynamic action or emotional engagement present. As the scene progresses, the individual switches to holding a bottle of water, while the sandwich remains on the plate. The text \"Even omelette sandwiches at CES are the future!\" appears on screen, suggesting a promotional angle, yet the person's expression remains subdued, displaying mild surprise rather than excitement. The overall pace feels steady and unvaried, and the visual elements do not shift significantly throughout the scene. Thus, the video is not engaged."
+            }
+        ]
+    },
+    {
+        "video": "train/train_0/0ba5f6d63fb8b902e23cf6eb03307372.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "[label] [rationale]\n<image>\n"
+            },
+            {
+                "from": "gpt",
+                "value": "not engaged\nThe video takes us down a two-lane road through a dense forest, all captured from the perspective of a vehicle's dashboard camera. The journey starts with a straightforward view of the road ahead, bordered by tall trees, as the sky shifts from daylight to the soft hues of a setting sun. As the vehicle moves forward, sunlight trickles through the leaves, casting dappled patterns on the road, while the trees become increasingly defined against a sky gradually growing darker, hinting at the evening ahead. The road curves gently to the right, yet the overall pacing remains slow and uneventful, which leaves little to capture the viewer's attention. Thus, the video is not engaged."
+            }
+        ]
+    },
+    {
+        "video": "train/train_0/1ddb4e3185169c35e6a5a71e8c523ae5.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "[label] [rationale]\n<image>\n"
+            },
+            {
+                "from": "gpt",
+                "value": "not engaged\nThe video takes a slow journey through a clothing store, primarily showcasing denim jeans and leather jackets. It begins with a close-up of a pair of faded blue denim jeans resting on a shelf, the price tag visible, signaling that these jeans are available for purchase. The camera then lingers on another pair, emphasizing a blue price tag, hinting at a selection or comparison process. The camera movements are deliberate but show minimal excitement, with small adjustments in angle and focus to highlight the denim's texture and quality. As the video proceeds, it transitions to a black leather jacket, maintaining a steady pace that lacks dynamic engagement, leaving the overall presentation feeling uneventful. Thus, the video is not engaged."
+            }
+        ]
+    },
+    {
+        "video": "train/train_0/055ac42ef012cbe0df4c6af8b2b81da4.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "[label] [rationale]\n<image>\n"
+            },
+            {
+                "from": "gpt",
+                "value": "not engaged\nThe video features an individual with a bare chest, adorned in a dark-colored garment, set against a plain white pillow backdrop. Throughout the duration of the video, the person's facial expression transitions from neutral to a smile and then to a more serious demeanor, though these shifts are subtle and lack variety. The individual's right arm remains consistently raised, with only slight movements captured in one of the frames. Overlay graphics, including a stylized face alongside text in a non-English script, are present in each frame but do not significantly enhance the visual narrative. The camera maintains a static position, keeping the focus and framing consistent on the individual, resulting in a steady yet uneventful viewing experience. Thus, the video is not engaged."
+            }
+        ]
+    },
+    {
+        "video": "train/train_0/98a5ad7200604b97fa175c69f6480e2e.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "[label] [rationale]\n<image>\n"
+            },
+            {
+                "from": "gpt",
+                "value": "not engaged\nThe video offers a glimpse into a concert setting, beginning with a dimly lit stage where a performer is present, while the audience's phone screens glow faintly as they record the scene. The stage is lit with blue and red lights, creating a somewhat vibrant atmosphere, yet the energy feels subdued. As the video moves forward, the lighting on stage does brighten, and a few audience members raise their phones, but overall, the engagement levels in the crowd remain low. Performers are seen making occasional movements around the stage, but their interaction with the audience is minimal, resulting in a lack of visible excitement among the attendees. The camera shifts perspective throughout the video, capturing various aspects of the event, yet the feeling of engagement is absent. Thus, the video is not engaged."
+            }
+        ]
+    },
+    {
+        "video": "train/train_0/225ce85e3b1dcb6d672900d6da3fadab.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "[label] [rationale]\n<image>\n"
+            },
+            {
+                "from": "gpt",
+                "value": "not engaged\nThe video features a female guitarist performing on stage under a wash of vibrant purple and blue lighting, but the energy feels somewhat subdued. Initially, she plays her white electric guitar while dressed in a black sleeveless top and gray pants, with her hair tied back, creating a visually appealing image. Although the stage setting includes various instruments and amplifiers and the audience is visible in the background, the performance lacks a strong connection or dynamic engagement. As the show continues, the guitarist shifts her stance, occasionally extending her right arm, but this movement feels more obligatory than interactive, failing to captivate the viewers. While the lighting remains consistent, the overall atmosphere does not evoke a sense of excitement or enthusiasm. Thus, the video is not engaged."
+            }
+        ]
+    },
+    {
+        "video": "train/train_0/f2264be6afad5a377071818382c1a4bf.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "[label] [rationale]\n<image>\n"
+            },
+            {
+                "from": "gpt",
+                "value": "not engaged\nThe video opens with a close-up of a hand grasping a white remote control adorned with blue buttons, signaling that it\u2019s part of a motorized roller blind system. Initially, the remote\u2019s blue light shines brightly, indicating it's powered on or actively in use. However, the background remains blurred, causing the remote to be the sole focal point. As the video continues, the remote is captured from different angles, yet the illumination on the top button keeps the viewer's attention, showing that the mechanism is still operational. Gradually, the background sharpens to reveal a bedroom setting that includes a bed and a window, hinting at the functionality of the remote in managing the blinds. Despite these elements, the overall pacing feels steady and lacks dynamic engagement. Thus, the video is not engaged."
+            }
+        ]
+    },
+    {
+        "video": "train/train_0/0e1b86d522e433caed1a0038494b4d3f.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "[label] [rationale]\n<image>\n"
+            },
+            {
+                "from": "gpt",
+                "value": "not engaged\nThe video presents a tranquil rural landscape, starting with a wide shot of a sprawling, golden field beneath a partly cloudy sky. A wooden fence and a lone white horse grazing set a peaceful tone. As the camera slowly pans to the right, the horse exits the frame, allowing more of the expansive field and a lush green forest in the distance to come into view. The scene shifts to another part of the field where the white horse reappears, peacefully grazing by the wooden fence. Continuing to pan right, the camera captures the horse moving deeper into the field as the fence and trees gradually gain prominence in the frame. The horse eventually approaches the fence, yet the overall action feels calm and unhurried, keeping the viewer's attention at a steady but low level of engagement. Thus, the video is not engaged."
+            }
+        ]
+    },
+    {
+        "video": "train/train_0/a30519e6a43b553e6225c3042ce0a816.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "[label] [rationale]\n<image>\n"
+            },
+            {
+                "from": "gpt",
+                "value": "not engaged\nThe video presents a person with a beard and mustache, dressed in a black t-shirt and green cap, standing against a purple wall. Initially, they wear a neutral expression, which creates a static feel. As the video moves on, their facial expressions and gestures begin to shift, starting with a slight glance to the side while maintaining that neutral demeanor. Gradually, they transition to a more relaxed smile, with eyes closed, hinting at a fleeting moment of joy or laughter. However, soon after, their expression falls back to a neutral state with open eyes, suggesting they may be speaking or reacting to something off-screen, but the changes remain subtle. The overall pacing is steady and lacks significant engagement or excitement. Thus, the video is not engaged."
+            }
+        ]
+    },
+    {
+        "video": "train/train_0/3442b62204b363acef215862fe43fb9a.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "[label] [rationale]\n<image>\n"
+            },
+            {
+                "from": "gpt",
+                "value": "not engaged\nThe video features a clothing rack in a retail space, displaying various items of children's clothing without much dynamic interaction. It opens with a close-up of a navy blue garment, complete with a price tag, but the focus quickly shifts to a hand lightly touching the clothing\u2014indicating a casual browsing motion that lacks intensity. As the video continues, the camera showcases another navy blue garment with a lower price tag, and then simply pans across the rack, revealing a few additional pieces, including a pink item and a black and white checkered garment. The transitions between garments are slow and unvaried, contributing to a steady, uneventful pace throughout the video. Overall, the setting remains unchanged, with little to spark interest. Thus, the video is not engaged."
+            }
+        ]
+    },
+    {
+        "video": "train/train_0/08e136b2ddcd479320d85a2b05c4d6a3.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "[label] [rationale]\n<image>\n"
+            },
+            {
+                "from": "gpt",
+                "value": "not engaged\nThe video takes you on a journey from an airplane passenger's viewpoint, starting with a serene view of a sky scattered with fluffy white clouds, alongside brief glimpses of the airport\u2014like the control tower and jet bridge. As the plane lifts off, the clouds grow thicker, enveloping the airport details that slowly fade away. Instead, your gaze is drawn to the distant horizon where the sky meets the earth, and you may catch sight of majestic mountains looming ahead. The shifting clouds and varying light conditions are captured, hinting at the passage of time, but the overall experience remains more observational and static. As the plane climbs higher, the landscape below becomes obscured by an ever-thickening layer of clouds, leaving the viewer feeling somewhat disconnected from the unfolding journey. Thus, the video is not engaged."
+            }
+        ]
+    },
+    {
+        "video": "train/train_0/3270b9bb945d47ec17239670b75d20de.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "[label] [rationale]\n<image>\n"
+            },
+            {
+                "from": "gpt",
+                "value": "not engaged\nThe video features an individual in a modern kitchen, appearing somewhat static as they engage in a series of minor, repetitive actions. Initially, the person stands with their right arm extended, dressed in a black sleeveless top adorned with red circular patterns, while a necklace adds a touch of flair. The well-lit kitchen showcases white cabinets, a stainless steel sink, and a framed picture on the wall, contributing to a bright yet uninspired ambiance. As the video continues, the person's arm movements lack dynamism; they lower and raise their arm without any substantial change in gesture or movement. Additionally, the individual\u2019s attire shifts to a black patterned garment, yet this change does little to enhance viewer interest. Overall, the pacing remains slow and steady, with no notable engagement or excitement in the actions presented. Thus, the video is not engaged."
+            }
+        ]
+    },
+    {
+        "video": "train/train_0/22d657565d3453b753eedba9832f769a.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "[label] [rationale]\n<image>\n"
+            },
+            {
+                "from": "gpt",
+                "value": "not engaged\nThe video presents a person in a football helmet emblazoned with the word \"RAIDERS,\" set against a dark background that transitions subtly from dark to light blue. The helmet, complete with a faceguard and chin strap, obscures the individual's face, leaving viewers with a sense of mystery. Throughout the length of the video, the person's position remains static, and the background, along with the text overlay reading \"TEAM RAIDERS!!\" at the bottom, stays unchanged. The only noticeable variation occurs in the lighting on the helmet, hinting at a slight adjustment in light source or helmet angle. The overall pacing and visual engagement feel stagnant, offering minimal excitement. Thus, the video is not engaged."
+            }
+        ]
+    },
+    {
+        "video": "train/train_0/297993510050723d7cc6bce01e9fb873.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "[label] [rationale]\n<image>\n"
+            },
+            {
+                "from": "gpt",
+                "value": "not engaged\nThe video features a person sitting in a domestic setting, possibly a living room, as they play a large barrel-shaped drum. Dressed in a casual striped shirt, red shorts, and blue flip-flops, the individual uses drumsticks to engage with the instrument, though the performance lacks dynamic energy. The drum itself exhibits a light brown surface with darker accents and is held on a sturdy wooden stand with a black base. The room includes a black office chair and what appears to be a black electronic device\u2014likely a speaker\u2014set against a wooden floor. While the individual interacts with the drum, the pace remains static, and the overall atmosphere feels unexciting. No significant changes in action or background occur throughout the video. Thus, the video is not engaged."
+            }
+        ]
+    },
+    {
+        "video": "train/train_0/b89b235de13d7e4c42a476f4b141c5c4.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "[label] [rationale]\n<image>\n"
+            },
+            {
+                "from": "gpt",
+                "value": "not engaged\nThe video presents a thorough inspection of a grey and black jacket along with its matching trousers in what appears to be a clothing store. It starts with a simple presentation of the jacket, briefly showcasing its design details such as the zipper, pockets, and a brand label; however, the presentation lacks dynamic movement or compelling visuals. The jacket is then lifted for a closer examination, but the focus remains static as it reveals the texture and brand label more clearly. The camera shifts to show the zipper and pockets, yet the transitions do not add excitement, and the labels seem to hold little appeal without engaging commentary. Lastly, as the camera pans to the right, the collection appears without much of a story or context, leaving viewers with minimal engagement throughout the video. Thus, the video is not engaged."
+            }
+        ]
+    },
+    {
+        "video": "train/train_0/c80dc796ba880a4cf24b06319ef02578.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "[label] [rationale]\n<image>\n"
+            },
+            {
+                "from": "gpt",
+                "value": "not engaged\nThe video features a person in a light green t-shirt casually interacting with a variety of plants in a well-stocked indoor nursery or garden center. Initially, the individual bends over a shelf of potted plants, holding a smartphone\u2014though it\u2019s unclear if they are taking photos or just scrolling. The bright, artificial lighting serves to highlight the greenery, yet the energy feels subdued. As the video continues, slight movements suggest an ongoing examination of the plants, but the pace feels slow and lacks significant engagement. The focus remains on the individual\u2019s actions without much variation or excitement. Thus, the video is not engaged."
+            }
+        ]
+    },
+    {
+        "video": "train/train_0/25253bf5a1ae952cd49d75bb466ff2ec.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "[label] [rationale]\n<image>\n"
+            },
+            {
+                "from": "gpt",
+                "value": "not engaged\nThe video presents a black and white dog in a familiar domestic setting, likely a living room or dining area. At the start, the dog is positioned on a patterned tablecloth, with a smartphone and a black bag featuring white text nearby, creating a casual scene. The dog's attention is directed off-camera, and its stance is somewhat still.\n\nAs the video moves forward, there are subtle changes in the dog's behavior. It begins to tilt its head to one side, seemingly reacting to something beyond the frame, before turning its gaze to meet the camera, hinting at an awareness of being filmed. However, the overall action remains low-key, with minimal interaction or dynamic movement from the dog. The background remains consistent throughout, and the pace of the video is uneventful. Thus, the video is not engaged."
+            }
+        ]
+    },
+    {
+        "video": "train/train_0/1ad9ebcbab3d73cea324cced901069c5.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "[label] [rationale]\n<image>\n"
+            },
+            {
+                "from": "gpt",
+                "value": "not engaged\nThe video presents a series of moments featuring an individual with long, curly hair inside a vehicle. At first, the person's head is slightly tilted downwards, clad in a patterned garment that contrasts dark and light colors. The car's interior is visible, showcasing a black seat and a window that reflects the outside scenery, implying that the vehicle may be moving. As the video progresses, the person's head shifts\u2014first raised and facing forward, then tilting downwards once more. The attire remains unchanged throughout, and the car's interior, including the seats and window reflections, also stays consistent. Overall, the pacing and action lack energy, leading to a somewhat static viewing experience. Thus, the video is not engaged."
+            }
+        ]
+    },
+    {
+        "video": "train/train_0/ef9f073f7736252147822aa85520cfd9.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "[label] [rationale]\n<image>\n"
+            },
+            {
+                "from": "gpt",
+                "value": "not engaged\nThe video presents a lakeside scene in a gradual transition from dusk to evening, starting with a basic view of a still lake that reflects the sky, bordered by dense foliage. As time passes, the sky darkens imperceptibly, indicating the evening's arrival. The camera shifts slightly, revealing more of the lake and the surrounding landscape, including a faint treeline and a structure on the shore\u2014creating a sense of calm and natural beauty. As the footage continues, the camera pans lazily to the right, displaying a wider view of the lake and treeline, while the color of the sky deepens into various shades of blue. The sequence unfolds slowly, lacking dynamic elements, which may leave the viewer feeling indifferent. Thus, the video is not engaged."
+            }
+        ]
+    }
+]

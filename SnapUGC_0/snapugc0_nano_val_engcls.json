@@ -1,0 +1,325 @@
+[
+    {
+        "video": "train/train_0/b15efd2ab30ea59a29f3b2942bb45fe9.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                
+                "from": "human",
+                "value": "<image>\nDescribe this video in detail with predicted engagement level to viewers.\n<cls>"
+            },
+            {
+                "from": "gpt",
+                "value": "The video showcases a person in a dark, patterned suit and a white shirt engaged in a series of slow, repetitive movements with a pen. Initially, the individual holds the pen close to their face, gazing toward the camera, but there\u2019s a notable lack of dynamic expression or motion. As time goes on, the pen is moved in minor ways\u2014sometimes closer, sometimes farther, and eventually held horizontally across the face, partially obscuring it. The changes in facial expression are quite subtle, with brief moments of closing and reopening their eyes, yet overall, the emotional engagement feels limited. The backdrop remains constant throughout, offering no new elements to capture interest. Thus, the video is not engaged."
+            }
+        ]
+    },
+    {
+        "video": "train/train_0/6d5a726df223cab8eea715ab230b58ed.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDescribe this video in detail with predicted engagement level to viewers.\n<cls>"
+            },
+            {
+                "from": "gpt",
+                "value": "The video presents a calm urban landscape, beginning with an overview of a quiet waterway that reflects the nearby city skyline, showcasing high-rise buildings with reflective glass windows. The text overlay \"DRAWBRIDGE MIAMI\" and a timestamp of \"7:36\" indicate the location and time, but the scene feels static. Initially, the tranquil waterway takes center stage, where the buildings' reflections settle on the surface, matched by a clear sky that suggests a sunny day but lacks dynamic movement. As the video moves along, the camera pans to the right, revealing additional parts of the urban setting, including a pedestrian bridge and a park area filled with greenery, yet the pacing remains slow and uneventful. Consequently, there\u2019s little to spark engagement. Thus, the video is not engaged."
+            }
+        ]
+    },
+    {
+        "video": "train/train_0/20b17555a00fe504f68c43fb56e0814a.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDescribe this video in detail with predicted engagement level to viewers.\n<cls>"
+            },
+            {
+                "from": "gpt",
+                "value": "The video features an individual with curly hair, dressed in a striped tank top adorned with a button detail, performing some subtle gestures and movements. Initially, the person is seen with their head tilted slightly downward, eyes closed, and mouth just ajar, suggesting a vague sense of contemplation or rest. As the video unfolds, the individual makes minimal changes in expression and gesture, including an upward tilt of the head and brief moments of openness, hinting at a potential interaction but lacking significant dynamism. The person's head dips down again, accompanied by closed eyes and a nearly motionless mouth, returning to a more subdued state. The overall rhythm feels steady and unvarying, with little to engage the viewer's interest. Thus, the video is not engaged."
+            }
+        ]
+    },
+    {
+        "video": "train/train_0/d9a1d9fc8215a26c7c2f417efe83340b.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDescribe this video in detail with predicted engagement level to viewers.\n<cls>"
+            },
+            {
+                "from": "gpt",
+                "value": "The video presents a series of slow interactions between a small, fluffy dog and a human in a domestic setting, likely at home. Initially, the dog is lying on its side, paying attention to something off-camera, presumably the human. The human's hand is visible, giving a gentle touch to the dog's head, hinting at an affectionate moment. As the video progresses, the dog's actions transition from stillness to slight movement, with its head turning towards the camera and its mouth slightly open, as if curious or anticipating something exciting. The human continues to engage with the dog in modest ways, like petting, but the overall energy remains subdued and slow-paced. This steady flow of interactions gives the video a not engaged feel."
+            }
+        ]
+    },
+    {
+        "video": "train/train_0/4c1edc801a8a15f61a0fa2c89c6f0ce3.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDescribe this video in detail with predicted engagement level to viewers.\n<cls>"
+            },
+            {
+                "from": "gpt",
+                "value": "The video opens with an individual dressed in a black jacket featuring a logo, holding a white plate that showcases a sandwich and a side of a fried egg in a kitchen environment. The camera focuses on the plate as the person prepares to eat, but there's a lack of dynamic action or emotional engagement present. As the scene progresses, the individual switches to holding a bottle of water, while the sandwich remains on the plate. The text \"Even omelette sandwiches at CES are the future!\" appears on screen, suggesting a promotional angle, yet the person's expression remains subdued, displaying mild surprise rather than excitement. The overall pace feels steady and unvaried, and the visual elements do not shift significantly throughout the scene. Thus, the video is not engaged."
+            }
+        ]
+    },
+    {
+        "video": "train/train_0/0ba5f6d63fb8b902e23cf6eb03307372.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDescribe this video in detail with predicted engagement level to viewers.\n<cls>"
+            },
+            {
+                "from": "gpt",
+                "value": "The video takes us down a two-lane road through a dense forest, all captured from the perspective of a vehicle's dashboard camera. The journey starts with a straightforward view of the road ahead, bordered by tall trees, as the sky shifts from daylight to the soft hues of a setting sun. As the vehicle moves forward, sunlight trickles through the leaves, casting dappled patterns on the road, while the trees become increasingly defined against a sky gradually growing darker, hinting at the evening ahead. The road curves gently to the right, yet the overall pacing remains slow and uneventful, which leaves little to capture the viewer's attention. Thus, the video is not engaged."
+            }
+        ]
+    },
+    {
+        "video": "train/train_0/1ddb4e3185169c35e6a5a71e8c523ae5.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDescribe this video in detail with predicted engagement level to viewers.\n<cls>"
+            },
+            {
+                "from": "gpt",
+                "value": "The video takes a slow journey through a clothing store, primarily showcasing denim jeans and leather jackets. It begins with a close-up of a pair of faded blue denim jeans resting on a shelf, the price tag visible, signaling that these jeans are available for purchase. The camera then lingers on another pair, emphasizing a blue price tag, hinting at a selection or comparison process. The camera movements are deliberate but show minimal excitement, with small adjustments in angle and focus to highlight the denim's texture and quality. As the video proceeds, it transitions to a black leather jacket, maintaining a steady pace that lacks dynamic engagement, leaving the overall presentation feeling uneventful. Thus, the video is not engaged."
+            }
+        ]
+    },
+    {
+        "video": "train/train_0/055ac42ef012cbe0df4c6af8b2b81da4.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDescribe this video in detail with predicted engagement level to viewers.\n<cls>"
+            },
+            {
+                "from": "gpt",
+                "value": "The video features an individual with a bare chest, adorned in a dark-colored garment, set against a plain white pillow backdrop. Throughout the duration of the video, the person's facial expression transitions from neutral to a smile and then to a more serious demeanor, though these shifts are subtle and lack variety. The individual's right arm remains consistently raised, with only slight movements captured in one of the frames. Overlay graphics, including a stylized face alongside text in a non-English script, are present in each frame but do not significantly enhance the visual narrative. The camera maintains a static position, keeping the focus and framing consistent on the individual, resulting in a steady yet uneventful viewing experience. Thus, the video is not engaged."
+            }
+        ]
+    },
+    {
+        "video": "train/train_8/06daf7c8a09e8450d8a5aa8eb2053451.mp4",
+        "label": "1",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDescribe this video in detail with predicted engagement level to viewers.\n<cls>"
+            },
+            {
+                "from": "gpt",
+                "value": "The video begins with an individual standing against a neutral-colored wall with a white door, dressed in a striking green sequined top paired with a black, sequined long-sleeve garment. Initially, they adopt a pose with arms crossed, exuding a sense of contemplation. As the video unfolds, the individual shifts to a more relaxed position with their arms hanging by their sides. Gradually, their movements become more expressive, with their arms rising\u2014one arm bent at the elbow and the other extended outward\u2014before transitioning back to a crossed-arm stance in front of their body. The video features a steady progression in posture, maintaining a consistent atmosphere throughout, while the background remains unchanged. Thus, the video is neutral."
+            }
+        ]
+    },
+    {
+        "video": "train/train_8/9da1bf70ec2f7b72b962bfca2ce79fbc.mp4",
+        "label": "1",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDescribe this video in detail with predicted engagement level to viewers.\n<cls>"
+            },
+            {
+                "from": "gpt",
+                "value": "The video presents a dynamic sequence from a mixed martial arts (MMA) fight taking place inside an octagonal ring, offering a spectator's or commentator's perspective. At the outset, two fighters square off\u2014one in green shorts and the other in black\u2014both adopting defensive stances as the referee keeps a close watch on their movements. The lively audience in the background suggests a well-attended event, setting an energetic atmosphere. \n\nAs the fight unfolds, the fighter in green shorts lands a punch, while their opponent in black remains on the defensive. The camera shifts angles to capture a clearer view of the fighters\u2019 upper bodies, enhancing the spectacle of the match. Although the atmosphere is charged with anticipation, the pacing and intensity remain steady, keeping the viewer engaged but not fully captivated. Thus, the video is neutral."
+            }
+        ]
+    },
+    {
+        "video": "train/train_8/f3a161e7f02a14acc6c9e6725cfbb0d3.mp4",
+        "label": "1",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDescribe this video in detail with predicted engagement level to viewers.\n<cls>"
+            },
+            {
+                "from": "gpt",
+                "value": "The video opens with a close-up shot of a beautifully patterned fabric surface, showcasing a striking blue, flower-shaped object that has a circular opening in the center. Initially, the object is still and the camera remains fixed, drawing attention to the details of both the object and the fabric surrounding it. As the video unfolds, a human hand appears, reaching towards the blue object, indicating a possible interaction, yet it pulls back before making contact. The hand reenters the frame, fingers poised and slightly curled, hinting at an impending engagement with the object. However, the momentum in the scene remains consistent and calm, maintaining a neutral tone throughout the video presentation. Thus, the video is neutral."
+            }
+        ]
+    },
+    {
+        "video": "train/train_9/8820fe243595aca585e8fad3d8ace821.mp4",
+        "label": "1",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDescribe this video in detail with predicted engagement level to viewers.\n<cls>"
+            },
+            {
+                "from": "gpt",
+                "value": "The video presents a close-up demonstration of a brush interacting with an array of colorful glitter on a textured white surface. Initially, the brush picks up a small amount of pink glitter, which is then spread out to form a larger, more visually appealing pile. As the video progresses, the brush moves to blend the pink glitter, creating a more vibrant and uniform sparkle. Following this, a captivating blue glitter is introduced, which is similarly spread out and allowed to expand into a beautiful pile. The blending of the blue with the pink occurs next, resulting in a delightful mix of colors that showcases the creative potential of the materials. The overall pacing is relaxed, providing a steady and engaging view of the artistic process. Thus, the video is neutral."
+            }
+        ]
+    },
+    {
+        "video": "train/train_8/666451287540c4bcbc4ac48eafbe113d.mp4",
+        "label": "1",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDescribe this video in detail with predicted engagement level to viewers.\n<cls>"
+            },
+            {
+                "from": "gpt",
+                "value": "The video features a sequence centered around the preparation and serving of a grilled steak. It begins with a person in a white chef's hat and black glove skillfully slicing a perfectly cooked steak on a wooden cutting board using a large chef's knife. The charred exterior and pink interior of the steak are clearly visible, indicating careful preparation for serving. Set in a kitchen environment, the stainless steel sink is visible in the blurred background, suggesting a domestic or commercial cooking atmosphere. As the video continues, attention shifts to a white plate where the sliced steak is carefully arranged. The pacing remains steady, and the overall ambiance seems consistent, making the video feel neutral."
+            }
+        ]
+    },
+    {
+        "video": "train/train_8/5078f7f6306fa93cf08b47c6d0e03074.mp4",
+        "label": "1",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDescribe this video in detail with predicted engagement level to viewers.\n<cls>"
+            },
+            {
+                "from": "gpt",
+                "value": "The video opens with a completely black screen, suggesting a momentary pause or transition in visual content. Soon after, the scene shifts to a cozy indoor setting that resembles a living room. Here, a person with long blonde hair is seen seated comfortably, surrounded by warm lighting that bathes a couch, a coffee table, and a lamp\u2014all contributing to a welcoming atmosphere. The individual appears relaxed, with their hands resting in their lap, conveying a sense of calm. Throughout this sequence, the camera remains static, maintaining focus on the person without any significant movements or alterations in the environment. Thus, the video is neutral."
+            }
+        ]
+    },
+    {
+        "video": "train/train_9/97815e4273b3a595ccb2231f9cfec015.mp4",
+        "label": "1",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDescribe this video in detail with predicted engagement level to viewers.\n<cls>"
+            },
+            {
+                "from": "gpt",
+                "value": "The video offers a close-up of a mouthwatering chocolate dessert, appearing to be a slice of decadent chocolate cake or pie, elegantly adorned with rich chocolate shavings, a shiny glaze, and a charming chocolate shell, possibly a truffle or candy, perched on top. Set against a dark backdrop, the dessert's deep colors and intricate textures stand out beautifully. As the video unfolds, we see the dessert being lifted or repositioned, causing the chocolate shell to tilt and the glossy glaze to stretch, giving viewers a glimpse into its indulgent, soft texture. The dessert is presented from different angles, emphasizing its sumptuousness and inviting nature, which maintains a neutral level of engagement throughout."
+            }
+        ]
+    },
+    {
+        "video": "train/train_8/6394a15bbac16c8be388de841ea69226.mp4",
+        "label": "1",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDescribe this video in detail with predicted engagement level to viewers.\n<cls>"
+            },
+            {
+                "from": "gpt",
+                "value": "The video opens with a first-person view from a transparent glass bottom observation deck, providing a breathtaking overlook of New York City's skyline. The viewer can see their own black-shoed feet as they peer down at the bustling streets and towering buildings, with the expansive sky visible through the glass below. A text overlay conveys that you\u2019re standing 97 floors above the ground, punctuated by a series of emojis\u2014faces expressing joy, awe, and admiration\u2014that hint at an exhilarating experience. As the video unfolds, the camera angles shift to offer varied perspectives on this stunning view, yet the excitement remains steady, capturing a unique moment in a well-known location. Thus, the video is neutral."
+            }
+        ]
+    },
+    {
+        "video": "train/train_17/bd94f06e1b32cc3051fead76437d9df5.mp4",
+        "label": "2",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDescribe this video in detail with predicted engagement level to viewers.\n<cls>"
+            },
+            {
+                "from": "gpt",
+                "value": "The video unfolds with a dynamic series of interactions between a human hand and a trampoline, starting with the hand firmly grasping a black tool near the trampoline's springs. The trampoline, prominently labeled \"ALONG,\" is set against a visually interesting brick-patterned ground that enhances the outdoor vibe. Initially, the hand is featured holding the object, which is then skillfully brought closer to the camera, hinting at an important action or adjustment about to take place. As the narrative progresses, the object is placed purposefully on the trampoline, and the hand retreats, signaling the completion of a decisive move. The camera then transitions to focus on the hand gripping a different section of the trampoline, suggesting further exploration and interaction, keeping the viewer thoroughly captivated and engaged throughout the sequence. Thus, the video is highly engaged."
+            }
+        ]
+    },
+    {
+        "video": "train/train_17/f3e1876f0e0ad54fbdbf22b28e2569f6.mp4",
+        "label": "2",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDescribe this video in detail with predicted engagement level to viewers.\n<cls>"
+            },
+            {
+                "from": "gpt",
+                "value": "The video immerses viewers in an energetic gym environment, beginning with a dynamic shot of a person resting on a blue bench, clad in blue shorts and black shoes, while an endearing small dog curiously lingers nearby. The scene then flows into action as the camera captures the person\u2019s legs in motion\u2014perhaps gearing up for an exercise\u2014while the dog inches closer to the bench, clearly invested in the action. As the camera pulls back to reveal more of the space, the vibrant gym interior comes into focus, showcasing exercise equipment and a bustling reception desk. The dog's playful journey unfolds, with the camera eagerly tracking its movements across the gym floor, inviting the audience to engage with not just the individuals present, but the lively atmosphere and layout of the fitness center. This captivating sequence ensures that viewers remain highly engaged throughout the video."
+            }
+        ]
+    },
+    {
+        "video": "train/train_17/5e44660a5d04ad1ee5acb34a59c8b09c.mp4",
+        "label": "2",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDescribe this video in detail with predicted engagement level to viewers.\n<cls>"
+            },
+            {
+                "from": "gpt",
+                "value": "The video opens with a vibrant scene of an individual standing outdoors, dressed stylishly in a black jacket layered over a floral shirt and dark pants, while holding a smartphone. The picturesque garden or patio setting, featuring a stone floor and surrounded by lush greenery with a wooden fence in the distance, creates a captivating backdrop. The bright, daytime lighting enhances the cheerful atmosphere, and the person's confident posture hints at their intent to record or capture a moment.\n\nAs the video unfolds, the individual's energy becomes more dynamic; their right arm lifts in an expressive gesture or dance move, while the left arm lounges casually at their side. This fluidity adds a layer of excitement to the scene, inviting viewers to share in the joyful vibe. The environment and lighting remain captivatingly consistent, further drawing the audience into the engaging narrative. Thus, the video is highly engaged."
+            }
+        ]
+    },
+    {
+        "video": "train/train_17/8265aa290779927f87e2c5213c0baffd.mp4",
+        "label": "2",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDescribe this video in detail with predicted engagement level to viewers.\n<cls>"
+            },
+            {
+                "from": "gpt",
+                "value": "The video begins with an inviting close-up of the car's interior, drawing attention to the open passenger side door that showcases a vibrant floor mat featuring a stunning cityscape design. The sleek metallic surface of the door contrasts beautifully with the rich black upholstery, while a hint of the car's striking blue exterior peeks through. A hand adorned with a blue wristband moves gracefully toward the door, hinting at an eager interaction with this stylish vehicle. The scene then transitions seamlessly to the exterior, where we see the captivating blue car parked on a picturesque cobblestone surface. The camera zeroes in on the wheel and the enchanting surroundings, enhancing the sense of immersion in this dynamic automotive experience. The video captures the viewer's interest with its rich details and visual storytelling, making it highly engaging."
+            }
+        ]
+    },
+    {
+        "video": "train/train_17/0287fd434d6f1c6053635a2bcb9bf57d.mp4",
+        "label": "2",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDescribe this video in detail with predicted engagement level to viewers.\n<cls>"
+            },
+            {
+                "from": "gpt",
+                "value": "The video kicks off with a dynamic, slightly blurred image of a person moving through a room, creating an immediate sense of energy and intrigue, paired with a compelling text overlay that invites viewers into a personal narrative. The scene then seamlessly transitions to an intimate close-up of a richly textured surface\u2014likely a cozy carpet or a plush rug. Alongside this, a dark object, presumably a piece of furniture, emerges in the frame, complemented by a reflective surface hinting at a nearby window. Throughout, the camera maintains a sharp focus on these elements, inviting viewers to explore the subtleties of the environment without significant shifts in composition. As the scene evolves, the viewer is taken deeper into the story being told. Thus, the video captures a highly engaged audience."
+            }
+        ]
+    },
+    {
+        "video": "train/train_17/44f11fcfe7322d2e998a66ccdefb87dc.mp4",
+        "label": "2",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDescribe this video in detail with predicted engagement level to viewers.\n<cls>"
+            },
+            {
+                "from": "gpt",
+                "value": "The video immerses us in the electrifying atmosphere of a bustling casino. We start with a dynamic shot of a person in the foreground, dressed stylishly in a black top and adorned with a gold chain, seemingly recording their exciting experience. The background comes alive with vibrant slot machines, dazzling lights, and an energetic crowd fully engaged in the excitement of the casino. Shot from a first-person perspective\u2014likely from the individual holding the camera\u2014the viewer feels as if they are right in the heart of the action. As the video unfolds, we notice the person slightly adjusting their posture, maintaining their presence in this lively environment, inviting us to share in the thrill of the moment. The energy is palpable, ensuring that viewers remain highly engaged throughout the experience."
+            }
+        ]
+    },
+    {
+        "video": "train/train_17/722b4478381d3a5c5cd1284b46b54635.mp4",
+        "label": "2",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDescribe this video in detail with predicted engagement level to viewers.\n<cls>"
+            },
+            {
+                "from": "gpt",
+                "value": "The video kicks off with an intense close-up of a car's steering wheel showcasing the iconic BMW logo, while hints of the dashboard, including a striking red button and gear shift, suggest the thrilling dynamics of a vehicle in motion. The focus quickly shifts to a tattooed hand pressing the vibrant red button, which could activate features like headlights or turn signals\u2014an action that communicates control and intention. The camera angle expertly pivots to capture the driver's tattooed fingers as they interact skillfully with the vehicle's controls, underscoring a seamless blend of style and function. As the perspective glides to the center console, viewers are drawn to the gear shift and the narrative of engagement with the car's technology. The energy of the scene conveys a feeling of excitement and involvement in the driving experience, keeping the viewer highly engaged."
+            }
+        ]
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "video": "train/train_21/dacc53c0b396a913987128a11958e5f9.mp4",
+        "label": "2",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease describe the video in detail, start with the description right away and do not include prefixes such as 'Here is the description of the video: '."
+            },
+            {
+                "from": "gpt",
+                "value": "The video begins with a shot of the person's feet wearing beige sneakers on a gray carpet. Text overlays the video, stating, \"I fell asleep in my bathtub and flooded my entire apartment \ud83d\ude20.\" The camera then pans across the flooded carpet, showing water damage and the extent of the flooding. The sound of a water pump is audible as the camera continues to move across the room, revealing a door. The text \"Oops\" appears at the bottom of the video."
+            }
+        ]
+    },
+    {
+        "video": "train/train_7/8787be2d403e980fd2737ac42e6f25b7.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease describe the video in detail, start with the description right away and do not include prefixes such as 'Here is the description of the video: '."
+            },
+            {
+                "from": "gpt",
+                "value": "The video shows a street scene in Lewisburg, Tennessee. The camera is positioned in a vehicle, looking out at a road and a grassy area. The video shows the presence of two birds, one of which is perched on the road, and the other one is walking on the road. The birds are seen interacting with each other, possibly fighting. The video also includes text overlays, which state, \"Office In fighting! CIA trained birds are attacking each other instead of spying on me,\" and \"Birds are not real.\" The bottom of the screen displays the location, \"LEWISBURG Tennessee.\""
+            }
+        ]
+    },
+    {
+        "video": "train/train_16/4aac2790511b3fa304e71f3e24876080.mp4",
+        "label": "1",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease describe the video in detail, start with the description right away and do not include prefixes such as 'Here is the description of the video: '."
+            },
+            {
+                "from": "gpt",
+                "value": "A young woman is walking down a wet sidewalk in the rain. She is wearing a pink fuzzy coat, blue jeans, a pink hat, and white sneakers. She is holding a pink umbrella with white polka dots and a small orange purse. The sidewalk is wet and reflecting the lights of the street. Behind her are buildings, trees, and a street with cars. The weather appears to be overcast and rainy."
+            }
+        ]
+    },
+    {
+        "video": "train/train_26/ddfe8985769a7b40e9d7425fbc7cc2dd.mp4",
+        "label": "2",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease describe the video in detail, start with the description right away and do not include prefixes such as 'Here is the description of the video: '."
+            },
+            {
+                "from": "gpt",
+                "value": "The video features a person with purple hair, wearing glasses, a red hat with the Bass Pro Shops logo, a black criss-cross top, and a white jacket. They are talking directly to the camera about the hate comments they receive. The person is holding a pair of scissors and a white bag. At one point, they cut the bag with the scissors and then throw the bag away. The video is captioned \"Period.\""
+            }
+        ]
+    },
+    {
+        "video": "train/train_8/b7d5ba11a489790e59293e50dcbaa9e6.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease describe the video in detail, start with the description right away and do not include prefixes such as 'Here is the description of the video: '."
+            },
+            {
+                "from": "gpt",
+                "value": "A woman with blonde hair and makeup is sitting in a chair wearing a white robe while a person off-screen applies makeup to her nose. The woman is looking up and has a surprised expression on her face. She then smiles and laughs, looking to the side. She is holding a lip liner pencil in her hand. She then holds a green drink and takes a sip. She is in a room with a dark door and a blue pillow. There is a person in the background."
+            }
+        ]
+    }
+]
