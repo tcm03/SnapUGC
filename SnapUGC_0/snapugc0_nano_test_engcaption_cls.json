@@ -1,0 +1,338 @@
+[
+    {
+        "video": "test/test_0/248c215e1522d0fc62e36d8bb3588418.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDescribe this video in detail with predicted engagement level to viewers.\n<cls>"
+            },
+            {
+                "from": "gpt",
+                "value": "The video features a person outdoors, holding a microphone with a \"RODE\" logo, suggesting they are ready to speak. Dressed in a black hoodie with a graphic design, the individual is framed by a backdrop of trees and a clear sky, indicating a tranquil outdoor environment. Throughout the video, their position remains mostly unchanged, keeping a consistent focus on the speaker. As the video progresses, text overlays emerge, beginning with a somewhat vague message about financial freedom and seemingly hinting at ways to achieve wealth, followed by a claim that the speaker is explaining how to get rich while the audience is asleep. The overall tone is steady and lacks dynamic shifts, resulting in a less engaging viewing experience. Thus, the video is not engaged."
+            }
+        ]
+    },
+    {
+        "video": "test/test_0/880c0412238e54acef857a5e50b7a296.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDescribe this video in detail with predicted engagement level to viewers.\n<cls>"
+            },
+            {
+                "from": "gpt",
+                "value": "The video features an individual wearing glasses and a brown shirt in a dimly lit room. A ceiling fan is visible, and a light source creates a glaring effect, adding to the casual feel of the setting. As the video unfolds, the person's expression transitions from neutral to a smile, and then back to a contemplative look, though these shifts feel minimal. The consistent background and lighting contribute to an overall sense of monotony. The scene then shifts abruptly to a brightly lit area, possibly a newsroom or control room, where multiple individuals are engaged in different tasks, though the initial person's presence feels lost in the transition. The pacing and visuals remain steady and unvaried, keeping viewer interest low. Thus, the video is not engaged."
+            }
+        ]
+    },
+    {
+        "video": "test/test_0/1456c2aa0f2bc51007e79d5b796f3400.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDescribe this video in detail with predicted engagement level to viewers.\n<cls>"
+            },
+            {
+                "from": "gpt",
+                "value": "The video presents a concert scene, albeit with a somewhat muted energy. It begins with a wide-angle view of a live music event set against a night sky, lit by bright stage lights and sporadic fireworks. The audience, appearing as silhouettes, observes the unfolding spectacle from a distance. As the footage continues, the fireworks light up the sky, and the camera pans to track their movements alongside the stage lights, which shift colors from white to green. However, the audience's engagement seems limited, as they watch quietly with a few raising their hands, but without the enthusiasm typically seen at such events. The atmosphere, while visually appealing, lacks the dynamic excitement often associated with a lively concert. Thus, the video is not engaged."
+            }
+        ]
+    },
+    {
+        "video": "test/test_0/0815d0acff680c080eba6ea79c733f4d.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDescribe this video in detail with predicted engagement level to viewers.\n<cls>"
+            },
+            {
+                "from": "gpt",
+                "value": "The video presents a person sitting in the driver's seat of a parked vehicle, going through a series of slow movements and expressions that lack significant variation. At the start, the individual rests their right hand on the steering wheel, dressed in a dark t-shirt featuring a logo. As the video unfolds, the person's hand shifts from the wheel to their face, indicating a subtle change in focus. The hand then moves to the forehead, possibly reflecting a moment of contemplation or reaction, though the movement feels unhurried and minimal. Throughout these actions, the person's facial expression remains mostly neutral with only a hint of engagement as the lips part slightly, suggesting they might be speaking. The overall pace is steady and unvarying, with no notable changes in the background or setting. Thus, the video is not engaged."
+            }
+        ]
+    },
+    {
+        "video": "test/test_0/2f642c009aba805f5bfeab192a02524f.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDescribe this video in detail with predicted engagement level to viewers.\n<cls>"
+            },
+            {
+                "from": "gpt",
+                "value": "The video presents a necklace featuring a large, circular orange pendant alongside a chain embellished with gold-colored coins and beads, displayed on a mannequin against a simple background. It opens with a complete view of the necklace, showcasing its vibrant hues and intricate craftsmanship. As the video moves on, the camera zooms in to highlight the pendant's beautiful orange color and gold border, while the background blurs into obscurity. Then, the focus shifts back out to capture the entire length of the necklace, emphasizing the arrangement of coins and beads. Although we see a close-up of the pendant later, the overall pacing and lack of dynamic engagement keep the viewer's attention minimal. The background remains unchanging throughout the video, contributing to a sense of stagnation. Thus, the video is not engaged."
+            }
+        ]
+    },
+    {
+        "video": "test/test_0/86c6ae053b8a320c0cbeecc0d774fdd7.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDescribe this video in detail with predicted engagement level to viewers.\n<cls>"
+            },
+            {
+                "from": "gpt",
+                "value": "The video presents a series of static moments inside a vehicle, showcasing an individual calmly seated in the passenger seat. Throughout the footage, the person adopts a consistent seated posture, with their hands resting idly on the seat, suggesting a lingering stillness without much activity. The interior features a brown leather seat, and the window offers a faint glimpse of the outside world, where a building and some foliage can be seen in a blurred backdrop, hinting that the vehicle is parked outdoors. The soft, natural lighting filtering through the window enhances the tranquil atmosphere, while the camera angle remains fixed, providing a stable perspective without dynamic changes. Overall, the video lacks engaging elements. Thus, it is not engaged."
+            }
+        ]
+    },
+    {
+        "video": "test/test_0/22d563bc38d63ed83c7df913455c093e.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDescribe this video in detail with predicted engagement level to viewers.\n<cls>"
+            },
+            {
+                "from": "gpt",
+                "value": "The video showcases a calm coastal scene that begins with a solitary figure standing on a rocky outcrop, gazing out at the ocean where waves crash against the rocks. The overcast sky adds an element of tranquility, but the overall atmosphere feels quite still. As the video moves on, the camera slowly pans to the right, revealing more of the coastline and the expansive ocean, with the individual making their way toward the water. The focus shifts away from the person, directing attention to the powerful waves and rugged terrain. The lingering shots of the waves flashing and the rocky landscape unfold without much dynamic change or excitement. The background remains constant and lacks engaging elements. Thus, the video is not engaged."
+            }
+        ]
+    },
+    {
+        "video": "test/test_0/cceb37641f4f7d75ecfdf43f146e3b72.mp4",
+        "label": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDescribe this video in detail with predicted engagement level to viewers.\n<cls>"
+            },
+            {
+                "from": "gpt",
+                "value": "The video presents a water show at night in front of the illuminated Bellagio Hotel in Las Vegas, but the performance lacks excitement and engagement. It starts with water jets shooting upwards in a synchronized pattern, creating a display against the dark sky\u2014yet the movements feel somewhat monotonous. As the show unfolds, the jets do vary in height and intensity, but the overall rhythm fails to captivate attention, with only minor fluctuations in the water streams. The hotel's warm lights in the background remain consistently bright, but they do little to enhance the spectacle's allure. Midway through, the water jets transition into a more uniform display, appearing forceful yet ultimately unremarkable, providing no dynamic shift in the experience. Thus, the video is not engaged."
+            }
+        ]
+    },
+    {
+        "video": "test/test_1/577692525ee43b467e9a3e5a35934619.mp4",
+        "label": "1",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDescribe this video in detail with predicted engagement level to viewers.\n<cls>"
+            },
+            {
+                "from": "gpt",
+                "value": "The video begins with a tranquil view of a cobblestone street, lined with parked cars and a modern building to the right, hinting at an urban landscape rich in historic charm. Under an overcast sky, the quiet street feels serene and undisturbed, without any pedestrians in sight. As the video unfolds, a black car with a yellow license plate enters the frame, smoothly driving from the right towards the center. The headlights are illuminated, suggesting either an early morning journey or a hint of adventure. The overall pacing is steady, making this scene feel calm and reflective. Thus, the video is neutral."
+            }
+        ]
+    },
+    {
+        "video": "test/test_1/671cdff4b94f3a33676a0d0dc8dcae78.mp4",
+        "label": "1",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDescribe this video in detail with predicted engagement level to viewers.\n<cls>"
+            },
+            {
+                "from": "gpt",
+                "value": "The video showcases an individual in a gym setting performing a push-up exercise, with exercise equipment visible and a vibrant green wall adding context. The person is dressed comfortably in a tie-dye shirt, black shorts, and white sneakers. Throughout the video, we see them at various stages of the push-up motion, starting in a plank position with their body parallel to the ground and hands shoulder-width apart. As the video progresses, they smoothly lower their body towards the ground, demonstrating the downward phase, and then push back up to the starting position, highlighting the upward phase of the exercise. The movements are steady and demonstrate a consistent effort, while the background remains unchanged, maintaining a neutral tone throughout. Thus, the video is neutral."
+            }
+        ]
+    },
+    {
+        "video": "test/test_1/04b91841d1111a6102eed922a608810a.mp4",
+        "label": "1",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDescribe this video in detail with predicted engagement level to viewers.\n<cls>"
+            },
+            {
+                "from": "gpt",
+                "value": "The video unfolds in a dimly lit stadium during an intense baseball game, showcasing a pitcher donned in a white uniform accented with red and blue as he prepares to throw. In the background, a catcher and umpire are poised, while a batter in gray stands ready for the pitch. As the scene progresses, anticipation builds as the pitcher delivers the ball and the batter swings, hinting at a possible hit. The catcher crouches lower and the umpire leans in, indicating their critical roles in the unfolding action. The atmosphere captures the essence of a live game, balancing tension and excitement, yet maintains a steady cadence that keeps the viewer engaged in the moment. Thus, the video feels neutral."
+            }
+        ]
+    },
+    {
+        "video": "test/test_1/ae394978428538ff48fc5cffbe17ee55.mp4",
+        "label": "1",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDescribe this video in detail with predicted engagement level to viewers.\n<cls>"
+            },
+            {
+                "from": "gpt",
+                "value": "The video opens with a person standing in a vibrant kitchen, surrounded by an array of colorful Crocs, accompanied by a text overlay that hints at a \"Love Story\" set in \"California.\" The scene shifts to the individual comfortably seated on a couch, still surrounded by Crocs, as another overlay appears, providing a specific time and date. Next, the person transitions to a different room, donning a cheerful yellow shirt and shorts, with Crocs adorning their feet. The text overlay reappears, once again referencing the \"Love Story\" theme in \"California.\" Finally, the scene captures the person walking along a path, maintaining the same outfit and Crocs, complemented by a timed overlay. The video flows steadily through these moments, with consistent elements and a lighthearted vibe throughout. Thus, the video is neutral."
+            }
+        ]
+    },
+    {
+        "video": "test/test_1/35726f88a0361c4229ec4d2da7c1e020.mp4",
+        "label": "1",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDescribe this video in detail with predicted engagement level to viewers.\n<cls>"
+            },
+            {
+                "from": "gpt",
+                "value": "The video unfolds on a wooden boardwalk, bustling with people and the ambiance of a public or tourist area. It begins with a conversation between two individuals; one is holding a microphone, indicating that this might be an interview or casual dialogue. The person on the left, clad in a black jacket and gray pants, speaks into the microphone, while the individual on the right, dressed in a white sweatshirt adorned with a blue logo and black pants, listens attentively, occasionally responding with gestures. As the video progresses, the conversation flows with subtle shifts in their interaction, offering a glimpse into their dynamic. The background remains consistent, underscoring the leisurely yet active environment. Thus, the video is neutral."
+            }
+        ]
+    },
+    {
+        "video": "test/test_1/911ba2f792519e9f1f0146eb084fb0d5.mp4",
+        "label": "1",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDescribe this video in detail with predicted engagement level to viewers.\n<cls>"
+            },
+            {
+                "from": "gpt",
+                "value": "The video features an individual standing against a neutral-toned wall, with a decorative plant in a vase placed to their right. Dressed in a light blue, sleeveless top adorned with a graphic design and matching shorts, the outfit is completed with a coordinating blue belt. Throughout the presentation, the individual maintains a steady stance with arms relaxed at their sides, resulting in a calm, static demeanor. The environment remains unchanged, showcasing no movement in the background or alterations in the person's clothing. The camera angle is consistent and captures the scene from a frontal perspective without any dynamic shifts. Thus, the video is neutral."
+            }
+        ]
+    },
+    {
+        "video": "test/test_1/a09814842edbaf226e42b8a25a9a654d.mp4",
+        "label": "1",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDescribe this video in detail with predicted engagement level to viewers.\n<cls>"
+            },
+            {
+                "from": "gpt",
+                "value": "The video opens by capturing the lively scene of an automotive repair shop bustling with activity. Various vehicles fill the space, including a sleek black car elevated on a lift and a vibrant blue car stationed on the ground, surrounded by focused workers engaged in distinct tasks. The camera smoothly transitions to reveal different sections of the garage, showcasing the dedicated efforts of a worker in a red shirt and another clad in black, both immersed in their work. Notable items, such as a yellow cloth and a black sign reading \"BEND,\" hint at specific areas of importance within the garage, adding to the lively ambiance. Overall, the visual narrative maintains a steady, observational tone. Thus, the video is neutral."
+            }
+        ]
+    },
+    {
+        "video": "test/test_1/62c5d307675149f2c3dd5e5ff5d49ceb.mp4",
+        "label": "1",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDescribe this video in detail with predicted engagement level to viewers.\n<cls>"
+            },
+            {
+                "from": "gpt",
+                "value": "The video captures a skateboarder's journey along a winding road, framed by vibrant greenery and a clear blue sky. At the outset, the skateboarder is seen in motion, focusing on balance and technique as they carve along the path. As the video unfolds, subtle changes occur in the skateboarder's posture and stance, hinting at an increase in speed but without significant visual flair. The arms occasionally lift, suggesting a mild response to the ride's challenges or efforts to maintain stability. Throughout this journey, the skateboarder's interaction with the surrounding environment is present but lacks strong dynamism, resulting in a neutral viewing experience."
+            }
+        ]
+    },
+    {
+        "video": "test/test_2/f111786fdc1073ec8906d3b5f08153b2.mp4",
+        "label": "2",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDescribe this video in detail with predicted engagement level to viewers.\n<cls>"
+            },
+            {
+                "from": "gpt",
+                "value": "The video captivates with a poignant portrayal of an individual in a blue shirt, visibly reflecting emotional distress. Their hands frequently cover their face, and their body language conveys a deep sense of turmoil in an indoor setting that hints at a familiar, domestic atmosphere. As the video unfolds, the individual's emotions fluctuate dramatically\u2014one moment, their hands are raised with palms outward in a display of vulnerability, while the next, they shield their face completely, conveying a mix of despair and introspection. The dynamic text overlay captures this emotional journey, seamlessly transitioning with phrases that resonate powerfully, such as \"Someone please\u2026\" inviting the viewer to connect deeply with the person\u2019s experience. This emotional depth renders the video highly engaged, as it evokes empathy and understanding."
+            }
+        ]
+    },
+    {
+        "video": "test/test_2/a33da3729664f4c8f1929e34f79f7fc9.mp4",
+        "label": "2",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDescribe this video in detail with predicted engagement level to viewers.\n<cls>"
+            },
+            {
+                "from": "gpt",
+                "value": "The video beautifully frames a tranquil beach scene, featuring an individual standing confidently on the shore in a crisp white t-shirt and sleek black shorts, with a picturesque lighthouse set against the horizon. The gentle ocean waves roll in rhythmically, and the overcast sky creates a soothing ambiance, hinting at an early morning or late afternoon vibe. With a relaxed stance and arms hanging comfortably at their sides, the person embodies a sense of calm and peace. The camera holds steady, allowing viewers to fully absorb the serenity of the setting. The bold, capitalized phrase \"ALL THE TIME\" overlays the tranquil visuals, emphasizing the theme of unwavering presence. This captivating atmosphere and the person\u2019s relaxed demeanor invite deep engagement and reflection, making the viewer highly engaged."
+            }
+        ]
+    },
+    {
+        "video": "test/test_2/dd06a9078a82825ae1a7f0044e400869.mp4",
+        "label": "2",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDescribe this video in detail with predicted engagement level to viewers.\n<cls>"
+            },
+            {
+                "from": "gpt",
+                "value": "The video captures an energetic moment in a cozy domestic setting, featuring an individual dressed in a black sports jersey adorned with a logo. Initially seated in a well-lit room furnished with a bed, nightstand, and a dresser with a mirror, the person is intently focused on their smartphone. As the scene unfolds, they rise to their feet, clutching the smartphone with both hands, then enthusiastically raise it above their head\u2014perhaps to seize an exciting moment or share a special experience. The dynamic shifts as they transition to holding the smartphone with one hand, curiously examining it, suggesting an ongoing engagement with the device that keeps viewers intrigued. The homely backdrop enhances the relatable, upbeat tone of the video, contributing to a highly engaged viewing experience."
+            }
+        ]
+    },
+    {
+        "video": "test/test_2/66ff974397b551fd41be94b59901d397.mp4",
+        "label": "2",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDescribe this video in detail with predicted engagement level to viewers.\n<cls>"
+            },
+            {
+                "from": "gpt",
+                "value": "The video immerses you in a dynamic interaction between a human hand and a vibrant red plastic shovel, set against a sandy backdrop that sparkles under a warm, circular light. It begins with the shovel held aloft, the fingers gripping the handle with intent, conveying a sense of purpose. As the scene unfolds, the shovel descends toward the sand, the grip tightening to emphasize the eagerness to dig or scoop. The hand deftly repositions the shovel, fingers spreading in preparation for the next move, creating a moment of anticipation. Finally, the shovel makes contact with the soft sand, and the hand adjusts its grip to facilitate a smooth, engaging interaction. This sequence is not only visually captivating but also reflects a playful and purposeful exploration. Thus, the video is highly engaged."
+            }
+        ]
+    },
+    {
+        "video": "test/test_2/2ff41f4df8c83688bf22b37f449cf04a.mp4",
+        "label": "2",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDescribe this video in detail with predicted engagement level to viewers.\n<cls>"
+            },
+            {
+                "from": "gpt",
+                "value": "The video immerses us in a captivating outdoor-themed setting, featuring a figure adorned with a dark-colored cap embellished with a logo. In front of a prominent deer head mounted on the wall, hinting at a hunting narrative, the individual\u2019s face remains enigmatically obscured throughout. The video opens with an intriguing gesture: the person's right hand is raised, suggesting a moment of emphasis or guidance. As the action unfolds, their hand movements shift dynamically, lowering and then elevating again to convey a series of expressive gestures. The background maintains its consistent allure, showcasing the majestic deer head alongside a softly blurred natural landscape, reminiscent of a serene forest. With a steady camera angle capturing these intriguing interactions, the video fosters a sense of excitement and engagement. Overall, this experience resonates with viewers, drawing them deeper into the narrative. Thus, the video is highly engaged."
+            }
+        ]
+    },
+    {
+        "video": "test/test_2/81de982be8e82575d41c39941a8a9319.mp4",
+        "label": "2",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDescribe this video in detail with predicted engagement level to viewers.\n<cls>"
+            },
+            {
+                "from": "gpt",
+                "value": "The video kicks off with a thrilling split-screen view of an intense basketball match, showcasing a player in a vibrant red jersey soaring through the air for an electrifying slam dunk over a defender clad in white. The drama unfolds in a bustling professional basketball arena, where the excited crowd adds to the atmosphere. The scene then seamlessly transitions to a close-up of an animated commentator in a green shirt, passionately conveying the action into a microphone, with the electrified audience blurred in the background\u2014highlighting the palpable energy of the moment. As the video continues, viewers see the commentator in a new environment, now sporting a red jersey, hinting at an intriguing shift in location or perspective. This dynamic storytelling keeps the viewer fully immersed and engaged throughout the video. Thus, the video is highly engaged."
+            }
+        ]
+    },
+    {
+        "video": "test/test_2/fb64e1522f727f072c1a1a027193f364.mp4",
+        "label": "2",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDescribe this video in detail with predicted engagement level to viewers.\n<cls>"
+            },
+            {
+                "from": "gpt",
+                "value": "The video opens with an intimate close-up of a person's face, radiating warmth through a subtle smile, set against a softly blurred background that evokes a cozy indoor atmosphere bathed in golden lighting. The individual\u2019s light skin tone and distinct facial features are beautifully highlighted. As the narrative unfolds, a wave of surprise washes over their expression; their mouth parting slightly and eyebrows lifting, conveying a hint of unexpected emotion\u2014all while the indistinct background remains constant. The lighting continues to cast a flattering glow over the face, and the camera maintains tight framing, immersing viewers in this emotional journey. As the moment intensifies, the person's expression shifts dramatically to one of sheer shock, with their mouth now agape, drawing the audience deeper into the unfolding experience. Thus, the video is highly engaged."
+            }
+        ]
+    },
+    {
+        "video": "test/test_2/b4a21c700ece63e01306e32167c67b06.mp4",
+        "label": "2",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDescribe this video in detail with predicted engagement level to viewers.\n<cls>"
+            },
+            {
+                "from": "gpt",
+                "value": "The video immerses you in the bustling scene of a congested highway, filled with a diverse array of vehicles, including cars, vans, and trucks\u2014some at a standstill, others inching along in a traffic jam. It kicks off with a striking focus on a white van adorned with a yellow stripe, surrounded by a red car and a white truck, all caught under a moody, overcast sky that adds to the atmosphere. The rural or semi-rural backdrop is beautifully framed by lush greenery and a metal barrier, separating the road from the grassy area beyond.\n\nAs the video unfolds, the camera skillfully zooms in, capturing detailed glimpses of the vehicles\u2014such as a sleek silver car boasting a sporty rear spoiler. You can feel the tension and anticipation of the traffic as each moment unfolds, keeping the viewer on the edge of their seat, engaged in the evolving story of the road. Thus, the video is highly engaged."
+            }
+        ]
+    }
+]
